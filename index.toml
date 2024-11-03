@@ -1,0 +1,4769 @@
+hash-format = "sha256"
+
+[[files]]
+file = "complementary-reimagined.pw.toml"
+hash = "17b174cef345aa8512bd7361add5c9704b31fe8ba787dd7e65a8097bada11a82"
+metafile = true
+
+[[files]]
+file = "config/CoroUtil/General.toml"
+hash = "d86beab1176c367beeed3b8fb8a2a8dfbd8a1db7293f067c01bc38c73020e398"
+
+[[files]]
+file = "config/InventoryHUD/curios.json"
+hash = "b268d7632f58e8291e8534f017eeb0742e99555a24620ff757db3f0a8785dff6"
+
+[[files]]
+file = "config/MouseTweaks.cfg"
+hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
+
+[[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "1c0e36f3124939575589c950dbdeed152cd3541e125562199aa6783af482aa50"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "24efe8fe878bdae3323f2645c3f645cee1c41c290ed1a684eda1a4bbb44b1efa"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "ba5e0e63cd9b06f69f19a66e99cd8f2d327421344123215c067a427a161558f1"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerPreferences.json"
+hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerWhitelist.json"
+hash = "ab94b539077d1f09489ea1ded0c0614c71b0e480e9d45b5afa1c4550b659b62d"
+
+[[files]]
+file = "config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
+file = "config/ShieldExpansion-common.toml"
+hash = "60cf9634fc0b6f5126c185908c29dad7f304cd6fdc426580cc7fa43a7e1984d8"
+
+[[files]]
+file = "config/advancednetherite-client.toml"
+hash = "228f901e5c0b87acb48dd1f7bfe7c53cf5cc38fa06a59155efb70c59b035dbec"
+
+[[files]]
+file = "config/advancednetherite-common.toml"
+hash = "74262502043c0b5e1e57d549981efbe4123be357a130f385979a9b6adb70138b"
+
+[[files]]
+file = "config/aeroblender-common.toml"
+hash = "ff40df50bd8d8851e015cb75ce1ead263034de7f4f87a4bbf135987b331d5450"
+
+[[files]]
+file = "config/aeroblender.toml"
+hash = "e7e44b6ac6226d2d322ad81249a0e839baaaecca041dd75ed1eb4347a4c5066d"
+
+[[files]]
+file = "config/aether-client.toml"
+hash = "f763b3f165aecb529eae149a0c29c14f978d5a5b1f63431b2eb3340a104a8995"
+
+[[files]]
+file = "config/aether-common.toml"
+hash = "3911dd941c94b72fb0cc8131a823d593871c016d206f0a82ee513c659e142e29"
+
+[[files]]
+file = "config/aether/aether_customizations.txt"
+hash = "113f7dfc56b7b2efdc782e45356c87c47174bb76dc34dcef24ca2ec32c7908e1"
+
+[[files]]
+file = "config/aether/sun_altar_whitelist.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/aether_redux-client.toml"
+hash = "016e1c774cb5adf0632b9874a82f9b6c70976602ca78cfd6c93ee18539546ee2"
+
+[[files]]
+file = "config/aether_redux-common.toml"
+hash = "9d99ae1327b942b1bd3ceff69981fca566148a36be18e3dd0e9a79805b594ce0"
+
+[[files]]
+file = "config/aether_redux_pack_config.json"
+hash = "837363f507309c4b90c49530aa0bf46973aa8a52a609e615b8531257768615d6"
+
+[[files]]
+file = "config/alexsmobs.toml"
+hash = "e72a09dd7230cd3d2e238433f9d7f6a1f2da1e267cdddcaf8b385b5418ee2244"
+
+[[files]]
+file = "config/alexsmobs/alligator_snapping_turtle_spawns.json"
+hash = "a3449f60c5781d08db112dacf1709d0664a5ae09d12a0dd7d72f54a8d6267eb7"
+
+[[files]]
+file = "config/alexsmobs/anaconda_spawns.json"
+hash = "a4b21f7eadad2e5b8eb3cedc78e4691d4891e66833e03d4385f2d99bcdc65bab"
+
+[[files]]
+file = "config/alexsmobs/anteater_spawns.json"
+hash = "d4dffa77f0d98aaded4393c296b06d78a530e94ffb8900a607cd8de66f046c16"
+
+[[files]]
+file = "config/alexsmobs/bald_eagle_spawns.json"
+hash = "f5b135489a414062cef45866e3355321f2697d33d88424c6cb699b8127006d65"
+
+[[files]]
+file = "config/alexsmobs/banana_slug_spawns.json"
+hash = "eafd26e756874909cdb87fe331bad84a3c12918a469a12763403ca3b0020a7cb"
+
+[[files]]
+file = "config/alexsmobs/bison_spawns.json"
+hash = "27bc5467a75000471af0751f2aa62c783f5ae25d7a1eb943795b7c3af080bc83"
+
+[[files]]
+file = "config/alexsmobs/blobfish_spawns.json"
+hash = "598a33aa535fa5edae67b8b4f83df3bf978e52963c0f5cd379a822c86d8ad9fc"
+
+[[files]]
+file = "config/alexsmobs/blue_jay_spawns.json"
+hash = "ec2914a508cb4578950528581d9d9f54ff49ecdf3b3a585619df7d810c23271d"
+
+[[files]]
+file = "config/alexsmobs/bone_serpent_spawns.json"
+hash = "5e6e4b33b40a70bc8973e6f957bfc02a53d1626665d18fc1c88950b1633b39a3"
+
+[[files]]
+file = "config/alexsmobs/bunfungus_spawns.json"
+hash = "56a4c9b49eebc856232f0d5599ea879d3a5231c4d3b1a119a7c74684fdc5b655"
+
+[[files]]
+file = "config/alexsmobs/cachalot_whale_beached_spawns.json"
+hash = "080b3a3a68a4a3b7791ab6ca04c51e8205bd3c6a062e449b3ade64957d454aad"
+
+[[files]]
+file = "config/alexsmobs/cachalot_whale_spawns.json"
+hash = "075a7f8e780577ad740a8caab924653c9681fbdf9660dc9b550fe172b318a3db"
+
+[[files]]
+file = "config/alexsmobs/caiman_spawns.json"
+hash = "9fcf42542a9fc8d248516f2572bef05c319975e4e86000cf0dff7f5b15baf159"
+
+[[files]]
+file = "config/alexsmobs/capuchin_monkey_spawns.json"
+hash = "26783dc7141cf1d10eb0fb6815e8d6cb8518a7d964e4ecb995b934f757c20329"
+
+[[files]]
+file = "config/alexsmobs/catfish_spawns.json"
+hash = "37aa7dfdf28e2e9a133d7715ea4f90f6f6cf8dda1e4bc037fa3f37bd92d89257"
+
+[[files]]
+file = "config/alexsmobs/cave_centipede_spawns.json"
+hash = "1fb9d9cc0833f50b12c0e8db11580d31bda37e4e4974b0503e54b3eaac4235e9"
+
+[[files]]
+file = "config/alexsmobs/cockroach_spawns.json"
+hash = "1fb9d9cc0833f50b12c0e8db11580d31bda37e4e4974b0503e54b3eaac4235e9"
+
+[[files]]
+file = "config/alexsmobs/comb_jelly_spawns.json"
+hash = "a7a731f0325aadc2810ce7c589e81bec289bd5c14f1291c5ddb10ebafbdf2845"
+
+[[files]]
+file = "config/alexsmobs/cosmaw_spawns.json"
+hash = "372df87ed49c27775f68bebd7351059f490ab0ee9d68c40aa1699b6c8c94df3d"
+
+[[files]]
+file = "config/alexsmobs/cosmic_cod_spawns.json"
+hash = "16155914c6318d7e77a09f71c034e8aed55474b5df320f30a668bdd3a631cc18"
+
+[[files]]
+file = "config/alexsmobs/crimson_mosquito_spawns.json"
+hash = "0e9d1e7b41ad2c94aa51b4a2608ae4927cd50d5bc134369c7cc7f7d627159d50"
+
+[[files]]
+file = "config/alexsmobs/crocodile_spawns.json"
+hash = "5ea014a69257967097e0be01da171558f8ecf437316572c80f90362009f55dee"
+
+[[files]]
+file = "config/alexsmobs/crow_spawns.json"
+hash = "b37eb1db5d3a856c742c701504c540ed8335c22e84d8063aef2409a2d34349e1"
+
+[[files]]
+file = "config/alexsmobs/devils_hole_pupfish_spawns.json"
+hash = "3d5fd3f45bff47cc86ad6baaddea4c482db43d4982e9aa9bd6d14f3c295c6e98"
+
+[[files]]
+file = "config/alexsmobs/dropbear_spawns.json"
+hash = "b6d0c12a35a4add55339a31d44ee006b8a09a87631a9d041ff9ede4d6fdc8515"
+
+[[files]]
+file = "config/alexsmobs/elephant_spawns.json"
+hash = "aebb16920932459843c2c391d5942068f2eaea2043b1d07241b61b14c6e9ef09"
+
+[[files]]
+file = "config/alexsmobs/emu_spawns.json"
+hash = "9d0ece037ecbf535d4678461c1e0c4ab3d6877d2469641ac633f3d674d8f5717"
+
+[[files]]
+file = "config/alexsmobs/endergrade_spawns.json"
+hash = "178d5ac1ca1be1d23f0d5c677224eb4bfb38a24cc7fac7e12289c87d35f9a27f"
+
+[[files]]
+file = "config/alexsmobs/enderiophage_spawns.json"
+hash = "c870d92b42e9bfb3c6e9bbc7cf56eeb170ff2b0f916f35f94196062741ad8f6a"
+
+[[files]]
+file = "config/alexsmobs/farseer.json"
+hash = "aa66669db94d3ff7eff00937c22d397b3c782cc539debeed0a368cce2e119c46"
+
+[[files]]
+file = "config/alexsmobs/flutter_spawns.json"
+hash = "0407bbf9b7a554d70d71e0b0a076332ab5577cf2bb08b17add4040caedade241"
+
+[[files]]
+file = "config/alexsmobs/fly_spawns.json"
+hash = "3d5fd3f45bff47cc86ad6baaddea4c482db43d4982e9aa9bd6d14f3c295c6e98"
+
+[[files]]
+file = "config/alexsmobs/flying_fish_spawns.json"
+hash = "cf9c9731888d219b546eba75cc3b1b957eaf6b15352577e3df2258217770c2a7"
+
+[[files]]
+file = "config/alexsmobs/frilled_shark_spawns.json"
+hash = "598a33aa535fa5edae67b8b4f83df3bf978e52963c0f5cd379a822c86d8ad9fc"
+
+[[files]]
+file = "config/alexsmobs/froststalker_spawns.json"
+hash = "53915780cab68621ce7150d72219f93d8cccf6c084363ee91081abbf29dd4b08"
+
+[[files]]
+file = "config/alexsmobs/gazelle_spawns.json"
+hash = "9d9e6126ee723371520eace5ece367ffc2aa977b695e5f5581905b0acd4d7e44"
+
+[[files]]
+file = "config/alexsmobs/gelada_monkey_spawns.json"
+hash = "a49c35c91ce7f4f1c4a38bb52cae42f6208f43ad48d23403d5acd382a519c2b0"
+
+[[files]]
+file = "config/alexsmobs/giant_squid_spawns.json"
+hash = "598a33aa535fa5edae67b8b4f83df3bf978e52963c0f5cd379a822c86d8ad9fc"
+
+[[files]]
+file = "config/alexsmobs/gorilla_spawns.json"
+hash = "7c6b2ddbf6eabe2f6d77fca2e0fb9f854fc07a334f6130e68c40f643cfc32705"
+
+[[files]]
+file = "config/alexsmobs/grizzly_bear_spawns.json"
+hash = "ec2914a508cb4578950528581d9d9f54ff49ecdf3b3a585619df7d810c23271d"
+
+[[files]]
+file = "config/alexsmobs/guster_spawns.json"
+hash = "19d72274d9d7932229b180c73b6a91a38de6114f5aac4c35aa1488c0dd1bb28b"
+
+[[files]]
+file = "config/alexsmobs/hammerhead_shark_spawns.json"
+hash = "cdde58f5de5958b895bda3f8834cac0c1e539040274b9aa2d5896fd676726ca8"
+
+[[files]]
+file = "config/alexsmobs/hummingbird_spawns.json"
+hash = "16598aced8738ca73c3bf37c4c0170719a2a190c5e098bcfe0f4efdc13315726"
+
+[[files]]
+file = "config/alexsmobs/jerboa_spawns.json"
+hash = "a27201bc22f049a7730d28e77df4f2f21853fd7ade5e2a657160bae470f2ca11"
+
+[[files]]
+file = "config/alexsmobs/kangaroo_spawns.json"
+hash = "9d0ece037ecbf535d4678461c1e0c4ab3d6877d2469641ac633f3d674d8f5717"
+
+[[files]]
+file = "config/alexsmobs/komodo_dragon_spawns.json"
+hash = "dd9cacc34fa8e89708f686d2f66f9b1159fb9fef30f908b399e013c0a24e9766"
+
+[[files]]
+file = "config/alexsmobs/laviathan_spawns.json"
+hash = "5e6e4b33b40a70bc8973e6f957bfc02a53d1626665d18fc1c88950b1633b39a3"
+
+[[files]]
+file = "config/alexsmobs/leafcutter_anthill_spawns.json"
+hash = "d4dffa77f0d98aaded4393c296b06d78a530e94ffb8900a607cd8de66f046c16"
+
+[[files]]
+file = "config/alexsmobs/lobster_spawns.json"
+hash = "65803061832d788b32b864367d62c114c68291d8eea9097594dcaf0301306cc5"
+
+[[files]]
+file = "config/alexsmobs/maned_wolf_spawns.json"
+hash = "c3d7f60acb2e605d0bc3c7461d98bfd6310c64d9c787d5e0879883f6b8c5b28b"
+
+[[files]]
+file = "config/alexsmobs/mantis_shrimp_spawns.json"
+hash = "44869ab38ceb22d186edcfb5362a6eb80760e75f74191fdd5cb6abbdd8b59780"
+
+[[files]]
+file = "config/alexsmobs/mimic_octopus_spawns.json"
+hash = "4472a386633f31b2bad0dcfab807cb08c3ec2a90ecb1b1fa227336ff1690713e"
+
+[[files]]
+file = "config/alexsmobs/mimicube_spawns.json"
+hash = "178d5ac1ca1be1d23f0d5c677224eb4bfb38a24cc7fac7e12289c87d35f9a27f"
+
+[[files]]
+file = "config/alexsmobs/moose_spawns.json"
+hash = "edfbe10e5da41f462f70f4bd61142530e3b5c9e29d1005bc302efab4ede36cf5"
+
+[[files]]
+file = "config/alexsmobs/mudskipper_spawns.json"
+hash = "9fcf42542a9fc8d248516f2572bef05c319975e4e86000cf0dff7f5b15baf159"
+
+[[files]]
+file = "config/alexsmobs/mungus_spawns.json"
+hash = "56a4c9b49eebc856232f0d5599ea879d3a5231c4d3b1a119a7c74684fdc5b655"
+
+[[files]]
+file = "config/alexsmobs/murmur.json"
+hash = "1fb9d9cc0833f50b12c0e8db11580d31bda37e4e4974b0503e54b3eaac4235e9"
+
+[[files]]
+file = "config/alexsmobs/orca_spawns.json"
+hash = "19c60fb7ae61a72d34a1a172fc641c7ad9ee0ba0772ed7fad6d60298f039631d"
+
+[[files]]
+file = "config/alexsmobs/platypus_spawns.json"
+hash = "c6bc57ee041fdf145dcb6d2891672ca4fd91a3171066239cab79bd171635a329"
+
+[[files]]
+file = "config/alexsmobs/potoo_spawns.json"
+hash = "e6f21da914007cb168c216619404e060ca89e3dc06eeebe53e9de5a5dd1ab88b"
+
+[[files]]
+file = "config/alexsmobs/raccoon_spawns.json"
+hash = "4df65f498bd11be0c83360632cda8c725361e7ef3408144b2b0e8dfe4899dd32"
+
+[[files]]
+file = "config/alexsmobs/rain_frog_spawns.json"
+hash = "a27201bc22f049a7730d28e77df4f2f21853fd7ade5e2a657160bae470f2ca11"
+
+[[files]]
+file = "config/alexsmobs/rattlesnake_spawns.json"
+hash = "db297004bd46b2506a5b53dfcbaa8ff9110b8c69f9a9a487d25f077c4dbaa16f"
+
+[[files]]
+file = "config/alexsmobs/rhinoceros_spawns.json"
+hash = "9d9e6126ee723371520eace5ece367ffc2aa977b695e5f5581905b0acd4d7e44"
+
+[[files]]
+file = "config/alexsmobs/roadrunner_spawns.json"
+hash = "db297004bd46b2506a5b53dfcbaa8ff9110b8c69f9a9a487d25f077c4dbaa16f"
+
+[[files]]
+file = "config/alexsmobs/rocky_roller_spawns.json"
+hash = "12ae5178bdde51afe23759cebe45f52e1a614735cb5440a2c83ecd8e75eec7a3"
+
+[[files]]
+file = "config/alexsmobs/seagull_spawns.json"
+hash = "93a1ea47739d9505210503c2ba904d8219cc476f46fa98292562e39cc14a455a"
+
+[[files]]
+file = "config/alexsmobs/seal_spawns.json"
+hash = "f00363564ed260b76c6132845d6301d23ea6207185f7b5ccfab0249d36c2f1ed"
+
+[[files]]
+file = "config/alexsmobs/shoebill_spawns.json"
+hash = "2ae357ebce2949b1d60db4da9ca2c6cc0e0e0b6ae153f5cb49c119dda1acbc23"
+
+[[files]]
+file = "config/alexsmobs/skelewag_spawns.json"
+hash = "d719b5e7064f4e9260d591f21236f0105455b7f4716c82e8e8d07b7ec5638b67"
+
+[[files]]
+file = "config/alexsmobs/skreecher.json"
+hash = "472bfac087058ed5532f88ae31946e5d4ed8d2a154c6aef82fe1e22783f8a8ed"
+
+[[files]]
+file = "config/alexsmobs/skunk_spawns.json"
+hash = "504216d2e564d3a4df5c9bc5d723cfadeb645ac447c153686797698389421e80"
+
+[[files]]
+file = "config/alexsmobs/snow_leopard_spawns.json"
+hash = "43796a6d9a7b4b18b0a0fbbd119ef6b651f1d25557e499d975ab56e3f163efa4"
+
+[[files]]
+file = "config/alexsmobs/soul_vulture_spawns.json"
+hash = "a3eb1909920f54d0717d93a0779fa00d72cab7dbfe1494254eb939a157e80f66"
+
+[[files]]
+file = "config/alexsmobs/spectre_spawns.json"
+hash = "178d5ac1ca1be1d23f0d5c677224eb4bfb38a24cc7fac7e12289c87d35f9a27f"
+
+[[files]]
+file = "config/alexsmobs/straddler_spawns.json"
+hash = "778a9cb57b0c8adc9961e78d6fe4ed6f10ad37e3a23fd3624cc28e2f0b3c1fe6"
+
+[[files]]
+file = "config/alexsmobs/stradpole_spawns.json"
+hash = "778a9cb57b0c8adc9961e78d6fe4ed6f10ad37e3a23fd3624cc28e2f0b3c1fe6"
+
+[[files]]
+file = "config/alexsmobs/sugar_glider_spawns.json"
+hash = "2463a918178f2b963ace75e9c07201d4caf42bb31a825658ea79c61f118f6bc7"
+
+[[files]]
+file = "config/alexsmobs/sunbird_spawns.json"
+hash = "cc539036c4065afe0eaeef628a0fd4a0e2b79a968542a0b51f09f117a06ce8c8"
+
+[[files]]
+file = "config/alexsmobs/tarantula_hawk_spawns.json"
+hash = "a27201bc22f049a7730d28e77df4f2f21853fd7ade5e2a657160bae470f2ca11"
+
+[[files]]
+file = "config/alexsmobs/tasmanian_devil_spawns.json"
+hash = "2de9b79ddc0a39e537c2ae62486305e48bd568e56a0e69e0d636c1f19317bbef"
+
+[[files]]
+file = "config/alexsmobs/terrapin_spawns.json"
+hash = "c6bc57ee041fdf145dcb6d2891672ca4fd91a3171066239cab79bd171635a329"
+
+[[files]]
+file = "config/alexsmobs/tiger_spawns.json"
+hash = "25933423aef01465977d8e21ef2bdd4950f8a8c2e5fb5048eb70b085324ef97d"
+
+[[files]]
+file = "config/alexsmobs/toucan_spawns.json"
+hash = "d4dffa77f0d98aaded4393c296b06d78a530e94ffb8900a607cd8de66f046c16"
+
+[[files]]
+file = "config/alexsmobs/triops_spawns.json"
+hash = "a27201bc22f049a7730d28e77df4f2f21853fd7ade5e2a657160bae470f2ca11"
+
+[[files]]
+file = "config/alexsmobs/tusklin_spawns.json"
+hash = "7ff05b2466ad4007929f1b1130d1f3ce240a0abbc92d3997f9ea7f36ab01d62f"
+
+[[files]]
+file = "config/alexsmobs/underminer.json"
+hash = "1fb9d9cc0833f50b12c0e8db11580d31bda37e4e4974b0503e54b3eaac4235e9"
+
+[[files]]
+file = "config/alexsmobs/void_worm_spawns.json"
+hash = "b0849eb96f4816a0c8ccbd346182d50cf300dbf002d392cbe90682c930e0f557"
+
+[[files]]
+file = "config/alexsmobs/warped_mosco_spawns.json"
+hash = "b0849eb96f4816a0c8ccbd346182d50cf300dbf002d392cbe90682c930e0f557"
+
+[[files]]
+file = "config/alexsmobs/warped_toad_spawns.json"
+hash = "a79f61400c2eeaf5f29ccc384638df588374cc794838c6e4529a61e2cc31412c"
+
+[[files]]
+file = "config/azurelib.json"
+hash = "32acac9194b283dc4f8e219ae5b802a26ac7fde079109aed435fe92f178e5b1c"
+
+[[files]]
+file = "config/backpacked-client.toml"
+hash = "7637db9b72548aead71e78c930bad190b8197eb8336b4eb420a6bf3040ff9596"
+
+[[files]]
+file = "config/backpacked-common.toml"
+hash = "e7c2be6e97725801c7432fb1038c7f0d0145ae1a5889b3b64c50a713a33356da"
+
+[[files]]
+file = "config/badmobs-common.toml"
+hash = "ea887de4c63780aab9da640c953c103449f596434ff9206c5087cb18d4d67c45"
+
+[[files]]
+file = "config/balm-common.toml"
+hash = "2e83e8a8f8e120214aeb50f55eb08f26c53b90e841c1949a9b7ca400f6c34088"
+
+[[files]]
+file = "config/barteringstation-client.toml"
+hash = "284ee1c6a5a7bdce7cccb40f818c89f66c51c95d45fc81201c537715c9e5becb"
+
+[[files]]
+file = "config/barteringstation-server.toml"
+hash = "05d6fec280c71adee13f88e336ee4ed9a572803337754c939946851fb93dbb9d"
+
+[[files]]
+file = "config/bcc-common.toml"
+hash = "66338ebf5b4ce7e474b60f6575dd5793cd2eb564023e56823484bae0eb7d4419"
+
+[[files]]
+file = "config/bclib/biomes.json"
+hash = "96d94f79e6f1f73c1f558285aa40f7e3389ad8b69d9ae6f650efbf6edbb7757a"
+
+[[files]]
+file = "config/bclib/cache.json"
+hash = "ecd680a8e7211f654383f3ad77372d239942e38f7b74de2d8ce4a140165b60e4"
+
+[[files]]
+file = "config/bclib/client.json"
+hash = "2907da44bb9fb4319c6e0cb4ec56a41683cd5a922850c4e2f6ec2700ebe35a24"
+
+[[files]]
+file = "config/bclib/generator.json"
+hash = "fbd12940119ed3006588ab2e98df5218134369c19bb846889a8da8a0de03b240"
+
+[[files]]
+file = "config/bclib/main.json"
+hash = "e696d2820a1e43c8f2a91fd19b369b9146a6bf6560d0444b0783b6315f29c6e3"
+
+[[files]]
+file = "config/bclib/server.json"
+hash = "ce21bff05a9e610b939d619536bde7dc59a0fc86bd2d85deb3366fe9a918042a"
+
+[[files]]
+file = "config/betteradvancements-client.toml"
+hash = "2c5eba79cde20bd1658a43dc0527e5d45b2e462d2f065e228527eee8513446be"
+
+[[files]]
+file = "config/betterchunkloading.json"
+hash = "b421ed027dfb84f96bfe39b2af89d09f66bfb59623565f8bd96366904f91a174"
+
+[[files]]
+file = "config/betterdungeons-forge-1_20.toml"
+hash = "946ce267d09bcedf40defb277de8b64ee72b37118230d47b20eabf55aa32f91a"
+
+[[files]]
+file = "config/betterend/blocks.json"
+hash = "eec67453561a2f4656c218c3eaa91691318a7b45a887cae065dcc70e045cff5b"
+
+[[files]]
+file = "config/betterend/client.json"
+hash = "b0c5fe0ddb608e1511f9fb145768bbf5308ffd3a58f54c1fb3734635384b9e01"
+
+[[files]]
+file = "config/betterend/enchantments.json"
+hash = "fe93e79aff2fc28279544d8578bc01206964d94cd404c9845ebe871128196803"
+
+[[files]]
+file = "config/betterend/entities.json"
+hash = "c88c23c520341d800c6403788d500a2c8db1eebf1cb3920f9809b31f00e6558b"
+
+[[files]]
+file = "config/betterend/generator.json"
+hash = "564c1d7ef5b6adaeec9e7024147316c6448fcc4e97dab5391870440d0237c718"
+
+[[files]]
+file = "config/betterend/items.json"
+hash = "5fb18af78d9d096929c49224dab452715b319de8dd433a274c54adb25ea7f005"
+
+[[files]]
+file = "config/betterend/portals.json"
+hash = "c0900ca41e9721a30bf49f00762f9fb80367908cd668d5c32ab2816e61ff51d7"
+
+[[files]]
+file = "config/betterfortresses-forge-1_20.toml"
+hash = "d7ad821ff76f0abe305017abe4f3e4aaf7acc6870bc66983eb140cf283ed0b95"
+
+[[files]]
+file = "config/betterfortresses/README.txt"
+hash = "70c4264947f42dd780d476f3d36966c2d01c23d6f089d98c317f8a820e4040ee"
+
+[[files]]
+file = "config/betterfortresses/forge-1_20/README.txt"
+hash = "1175dbf9cd2e7c91b1c852a51e3c0203c68484917e877465b283e2370ad62864"
+
+[[files]]
+file = "config/betterfortresses/forge-1_20/itemframes.json"
+hash = "877d2a8e34996c18b610e74397fd7d6d5a75b1a2db416f17a84185e5eed3b32a"
+
+[[files]]
+file = "config/betterfpsdist-common.toml"
+hash = "aa1058f5026f26c70c3b842080fc57619ce69baa34f39ad85b4f903add3d2e26"
+
+[[files]]
+file = "config/betterfpsdist.json"
+hash = "371f4a25c65652f254ad563c0be8331f7aa25ffd362dcb2204edbd7bb2dc1670"
+
+[[files]]
+file = "config/betterjungletemples-forge-1_20.toml"
+hash = "1e558a006956669d6ab8dc9941eba2050365516c46f7008b3a9ee7b49764e273"
+
+[[files]]
+file = "config/bettermineshafts-forge-1_20.toml"
+hash = "016afc8af06af822bdaa07681699b3c068ec26274116b30b359d5ff03ef9ce11"
+
+[[files]]
+file = "config/bettermodsbutton-client.toml"
+hash = "34365ad37c9eab23ad52d97b509f40d435194254bacfd9992a4776a8afb654d2"
+
+[[files]]
+file = "config/betteroceanmonuments-forge-1_20.toml"
+hash = "a3789bfdf19c068ae046d382d7fd627f31ecda4a91ecadef888ff91ea6b8ceb6"
+
+[[files]]
+file = "config/betterstrongholds-forge-1_20.toml"
+hash = "2e9c9d71e1f2ebcc7065fa6bb09f9b3b97e4cf0bb78067182faf56d1fc14886d"
+
+[[files]]
+file = "config/betterstrongholds/README.txt"
+hash = "13c5f6bd52bf778533a100453d8b295802f923109e0a2951446a00674113700b"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_20/README.txt"
+hash = "5aad271e60a03218eb5207dd78df8d1d36c676f212bf823701e33646010d2f19"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_20/armorstands.json"
+hash = "7a9c8d9675c0a7405ffaa931648877e4f4350104e3962b70e54e7698669d8cb7"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_20/itemframes.json"
+hash = "2a0fab329092260cad3e5237a515a0018aa6ecccf1832e0ff77594c12910058d"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_20/ores.json"
+hash = "e661f215972fd44fb7f3fecf421cb4142c5bd7c1e42aea2d00d5970bedac1d63"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_20/rareblocks.json"
+hash = "d48669d69850c89b9c60d96cc4b2ab480a76a2aed2d127d8b123a1ad3fed3789"
+
+[[files]]
+file = "config/betterwitchhuts-forge-1_20.toml"
+hash = "a053c7647937df86a050d1d2d5e2e42dae07b96af4a1e799c5c917e28456b15d"
+
+[[files]]
+file = "config/bhmenu-client.toml"
+hash = "fd582ae8e1adca1d1c7ec92c8fb77039d4da37c0fe6c46d678745a605f26ddc4"
+
+[[files]]
+file = "config/biomemusic.json"
+hash = "02edfe8382e936acccb8d2e7f6ddf39dd214bd455f479fe0d6bde7d292c5768b"
+
+[[files]]
+file = "config/biomesoplenty/biome_toggles.json"
+hash = "53532e34c381f96743df3f1080f7f1bb714548a4e9a2c99225af3db4e39df203"
+
+[[files]]
+file = "config/biomesoplenty/generation.toml"
+hash = "9de600b6c85029f74a7549a6f7074065ac55310666c54bebd4c3bf573b0379d7"
+
+[[files]]
+file = "config/blue_skies-client.toml"
+hash = "d32b06c31421f969e6add4d4dff2bf2443a42a11125a02410d29f4c90073f6ff"
+
+[[files]]
+file = "config/blue_skies-common.toml"
+hash = "2f7939a0f248dac38bc613b05992d9dfa73fd6e8e2150d328d2bd10d3706394c"
+
+[[files]]
+file = "config/boatiview-client.toml"
+hash = "d45af4bac4a8cd85ccbe6007c17c202a9043e9fe2f99442ce221afb21f8a8cb0"
+
+[[files]]
+file = "config/bountiful/bountiful.json"
+hash = "d9d47ef737d069382da1d2bb2b16d52a0f27401fd5c0992a62b7e601b0e0eeea"
+
+[[files]]
+file = "config/canary.properties"
+hash = "3d656107f58eefadab3aa8f75c06e5ddfdc67c7896af46a9f7e4e4b220e0530a"
+
+[[files]]
+file = "config/carryon-client.toml"
+hash = "eb247bd22d2ae144c4cb1a2f24862e6aeb1467167d36112258ad36b6da0597db"
+
+[[files]]
+file = "config/carryon-common.toml"
+hash = "b8b9ebf9cc49d6c85dda88139d37cd78f95022ed5b6a99fe4b6ffd4b82306ef5"
+
+[[files]]
+file = "config/cataclysm.toml"
+hash = "b4a84fc8bfa69fb9d761d2799863cf22ab01a8618942809346506bec55823882"
+
+[[files]]
+file = "config/cataclysm/amethyst_crab_spawns.json"
+hash = "f729be2a0bc7bccc88cde40464f990d6074bfcf52a0d1d6719d8ebcd63c496ff"
+
+[[files]]
+file = "config/cataclysm/deepling_angler_spawns.json"
+hash = "e4802daebcc713c2e5991703ba9a142462a6023507bfa6fff155868a27bd30b7"
+
+[[files]]
+file = "config/cataclysm/deepling_brute_spawns.json"
+hash = "e4802daebcc713c2e5991703ba9a142462a6023507bfa6fff155868a27bd30b7"
+
+[[files]]
+file = "config/cataclysm/deepling_spawns.json"
+hash = "e4802daebcc713c2e5991703ba9a142462a6023507bfa6fff155868a27bd30b7"
+
+[[files]]
+file = "config/cataclysm/koboleton_spawns.json"
+hash = "5831a4da569ac4fb3d7d5396967281b8bdad765c25cf3cd5c6a5d708952c2b16"
+
+[[files]]
+file = "config/charmofundying-server.toml"
+hash = "e4c5841a10d5024f4ee31cf46b201233a385aaf9badf314d9ebded3feb12d356"
+
+[[files]]
+file = "config/chat_heads.json5"
+hash = "53f1eec25e4b4457fce81b1349f18ca44b2dcd3a47092a609b4a0db02362f008"
+
+[[files]]
+file = "config/chefsdelight-common.toml"
+hash = "48363ce4c5bff4cbae4c5d3d7385ff8088fb222b5ac8ee6b592bf6505765ac24"
+
+[[files]]
+file = "config/chunksending.json"
+hash = "e589c5988aa0f23e08400df47ef156a61eea1978f2161ba014da278c28a60ac7"
+
+[[files]]
+file = "config/citadel-common.toml"
+hash = "003c66e2673dc2eee6cb78c7b6374481ad1c934b8e037c276b36dee74e114f09"
+
+[[files]]
+file = "config/citresewn.json"
+hash = "f40a21e858b346630f19d8b0724fe94473ae3db46f856fa8338da5e13364ad18"
+
+[[files]]
+file = "config/collective.json5"
+hash = "9b774f59463076c315606cbc4717778f16ef8ef48a84b9c7fc4e0ae437cccc8d"
+
+[[files]]
+file = "config/collective/entity_names.json"
+hash = "bddeff5a95a00aaed5c3d2a37bc73d81a1a69a31377f251330aca1265be6945a"
+
+[[files]]
+file = "config/comforts-server.toml"
+hash = "e5ccb95513c64cf71bd84023adeff3e5073d1ecd4db31c91025d24ce5f3605f3"
+
+[[files]]
+file = "config/connectivity-common.toml"
+hash = "bdc2ce639b6ca4c48f55f6a35cd73116e7aa6be42b559ea75c02fa662c6a3b80"
+
+[[files]]
+file = "config/connectivity.json"
+hash = "d1f6a792a03e4b2ccec19ba00098db7d4c47fa3f3888b534cba2247a045cfd64"
+
+[[files]]
+file = "config/connector.json"
+hash = "4a227238c269001ae57e16fa5f584e81c73b39e0e802704b3db9578c4bc52e42"
+
+[[files]]
+file = "config/connector_global_mod_aliases.json"
+hash = "ae536be4c722debb4252146b39a32135fe5ea2378520cf86fcc835d023ed9d30"
+
+[[files]]
+file = "config/connectorextras_energy_bridge-common.toml"
+hash = "4075f057d848f2a33f0bff9f44cce49f8d8340001d7b2afe3431ba1d999c4400"
+
+[[files]]
+file = "config/controllable-client.toml"
+hash = "364c59cf9402583aa2be212e8b1aed49f2afdb9e9d25535f8eb1949a7993972e"
+
+[[files]]
+file = "config/controllable/controller.properties"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/crabbersdelight-common.toml"
+hash = "6c1ab8b72c12bf8d9fd006c8c9bcb27fa2d655b0431463b717f365abdd723079"
+
+[[files]]
+file = "config/cristellib/minecraftED.json5"
+hash = "c177c8599ed8edc1dc9473d6337344aa35a6d8164b4b58b0dc30080905ff9fb8"
+
+[[files]]
+file = "config/cristellib/minecraftP.json5"
+hash = "23917b640cac2ebb147742c53fc592d2b0517c5ba5486a55d6555144f902baf9"
+
+[[files]]
+file = "config/cuisinedelight-client.toml"
+hash = "72150aee6017702c726a08d499724f79ace1263047e65c97514847f6f8a9a394"
+
+[[files]]
+file = "config/cuisinedelight-common.toml"
+hash = "82eba378e3a3e65f6f4ab038a04832720014e68fde8f31e9ea07167e9bc9158d"
+
+[[files]]
+file = "config/cull-less-leaves.json"
+hash = "6bc92f3695f35c601c2adfa1f51e9f616df379288f2a260fd1f4011c5bad50ee"
+
+[[files]]
+file = "config/cumulus_menus-client.toml"
+hash = "ccd9f7f7a0539175dbdba77592e96667977a569c3ec506ac6a457bfad4223c93"
+
+[[files]]
+file = "config/cupboard.json"
+hash = "42bbabc1f3eacb0e7ac159aeb9fa8ca5b72a3bdc1de008ee8e65a632b23d8fe0"
+
+[[files]]
+file = "config/curios-client.toml"
+hash = "9c0985b85e67e704a3640d028186dc0b220fa69404b9555244add55eaf5d4794"
+
+[[files]]
+file = "config/cutthrough-client.toml"
+hash = "2dfca01b0ad9942ed5c6cede6fd043ca4adf912f5edee1857a39216f461b4a3b"
+
+[[files]]
+file = "config/decorative_blocks-common.toml"
+hash = "7bdb5b3a6fdd582ec4c1f84167badc511409e3094b4b29c4009ccb5d3f80516d"
+
+[[files]]
+file = "config/deep_aether-client.toml"
+hash = "875d3f6ff8774bff671195b87d127c937ce2c005b930e36f4aff9051df401478"
+
+[[files]]
+file = "config/deep_aether-common.toml"
+hash = "782587df24642bd996edeb6cca2a0efe861b4d453fdfdff9c91fb563a3c2721f"
+
+[[files]]
+file = "config/defaultoptions-common.toml"
+hash = "3c6307abe209aeab5c7ae65e011e1460d59826bde479b284c297f876cbb07355"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "ef4d50c29a3b2d0de6291be1d6d52256baa8605231da7c282216b5309d503c24"
+
+[[files]]
+file = "config/delightful-common.toml"
+hash = "0a75933bb4871199c595530882b802eb500e72f19aba37448674eafd7a4c62cc"
+
+[[files]]
+file = "config/despawn_tweaker-common.toml"
+hash = "f862f6d5b8ae2a0f06b8d47831f4ae621cebea583e7cf33a193d5482960f98b8"
+
+[[files]]
+file = "config/does_potato_tick-common.toml"
+hash = "eef28b79151bb2e1d0f43d17ea7e06fb0c32f202ac4a02c334a12224af9b22e4"
+
+[[files]]
+file = "config/doubledoors.json5"
+hash = "144d900976a395c97cff182ebfc0c06c58b23bd8e9fc7bb8e03a67560b84eda3"
+
+[[files]]
+file = "config/dragonmounts-common.toml"
+hash = "d05f32d134be956a9427bf4432ea84f14557eba851667e8907ace99901d714fe"
+
+[[files]]
+file = "config/drippyloadingscreen/config.cfg"
+hash = "9048ef7ea3f91756e522d6976c02229fc8a797bb4d266f329160e994d0978388"
+
+[[files]]
+file = "config/dynamic_lights_reforged.toml"
+hash = "723574cfffba73487890300a1e4235536448f7189eae13b1048687e00e90af02"
+
+[[files]]
+file = "config/easyanvils-client.toml"
+hash = "daecf2f4b4f0f6682cfabf68dcb963535f7f4284c671141dd7c7115b0c609ba7"
+
+[[files]]
+file = "config/easyanvils-server.toml"
+hash = "5bf38784a30090fbe2d5bc1a65aa5bd5744b5c9ed8a3abdce37341e5637cb570"
+
+[[files]]
+file = "config/easymagic-client.toml"
+hash = "187085002566bc0ad0bd0262459f92716261ae66c3b96147096a5a4ef7a25abf"
+
+[[files]]
+file = "config/easymagic-server.toml"
+hash = "7dbf42819b121001c76e06c07994c363d316ce110f7b06dd032687f4099d5687"
+
+[[files]]
+file = "config/eldritch_end/biomes/hasturian_wastes.json"
+hash = "9faee4b9232d476e8694f8269137dc6ed4cdcf838bb3725d1fe36fa911fed8cc"
+
+[[files]]
+file = "config/eldritch_end/biomes/primordial_abyss.json"
+hash = "198ae367b6e8654f3332ebd45da503b0b6281697f8cfbe537e8b35efb8187f8d"
+
+[[files]]
+file = "config/eldritch_end/bosses/hastur.json"
+hash = "60769b2e856f0e706ff84e9600794a8b075a4c7fcaa91a07d8e70ff447857816"
+
+[[files]]
+file = "config/eldritch_end/eldritch_end-client.json"
+hash = "2a9dc005aabbfed645202e29ffbf6cb0ffc34cd13aab86ddf3f402a0b08bc247"
+
+[[files]]
+file = "config/eldritch_end/entities/aberration.json"
+hash = "b1577d0d771510b6ba59f94c8d83a1d823ffa36dfb9c83679f0a6fb0a770abfa"
+
+[[files]]
+file = "config/eldritch_end/entities/dendler.json"
+hash = "bf4afb846701594f6498b32ade50d7e655bbafe28a9a2410619f3f40c16bdf04"
+
+[[files]]
+file = "config/eldritch_end/entities/tentacle.json"
+hash = "709c1e310df2067cf88fc10f6e034abc139c2199e3ae88ff5756cfde5eb2e163"
+
+[[files]]
+file = "config/eldritch_end/mechanics/corruption.json"
+hash = "5e257c629f65bcef4ee3ec4b6c18bfbbae1ea575c0b70a7d005829f99925ea66"
+
+[[files]]
+file = "config/embeddium-mixins.properties"
+hash = "2d0bdca74548caee52c95faeb3ce90413938bad47a8967925fd309dd6014a22a"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "6f8ac2b64ed9c9d4d53641fa2b7046a389c88c7dcc25c5a9dbb3b6bd89a55b7f"
+
+[[files]]
+file = "config/enchdesc.json"
+hash = "31c1f5099f0deb10946338897737b96384d681034367adef94bb380211fe91f3"
+
+[[files]]
+file = "config/entity_model_features.json"
+hash = "fba339f0c8502cb1eb804a8d41f3a54a79dec86930e96ea58908f58ff1a185ba"
+
+[[files]]
+file = "config/entity_texture_features.json"
+hash = "e0dc80d3ca4e93d206333f24554f1e5aef78affcbefe69e237eff15fbaeaadc3"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "1eab49670e52d33fb63c14c6f5eec9d8abf735d9ee24679ba00f2ca19b96c2d0"
+
+[[files]]
+file = "config/everycomp-common.toml"
+hash = "4788f426c98041f4cbbd130c1464d059b350afba9dffccc011db2621a7707897"
+
+[[files]]
+file = "config/everycomp-hazardous.properties"
+hash = "0dc01f635ff4d39a1dde6d96111efc3133905c40fd6c35c260789b1270f07fa8"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "333a21d2e04599679eb96d306c26b6727b969ee0bbde2bfcb2ca5cd2dbc1f869"
+
+[[files]]
+file = "config/fallingleaves-client.toml"
+hash = "57593ac22df771e7ed941c2da70987799fdfc6bc0c77bff173f82b6b03d3f560"
+
+[[files]]
+file = "config/fallingtree.json"
+hash = "922a0a06c316eb1f0aba285f5bc59f4421b51b6f861661f3cdab38bbd44e4927"
+
+[[files]]
+file = "config/fancymenu/config.txt"
+hash = "b0f0bb5e67fac54c26e44db4d18534392c438ee54028070a5e3c30d5d12c77d3"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "5169d3b1dcbf39965e08d170ae22a6ee9ffdff1ecdda3a8a95ec94e893bdea47"
+
+[[files]]
+file = "config/fancymenu/customization/aether.txt"
+hash = "1d4236f4a14cde159ab1d7176927c42a7ccbb676739e295166ca09ceb023a775"
+
+[[files]]
+file = "config/fancymenu/customization/error.txt"
+hash = "a07a34dd200c11779275d38933811e43f80c601abc4ea3662dcbcbc507d541a1"
+
+[[files]]
+file = "config/fancymenu/customization/escapemenu.txt"
+hash = "4de0dec7c8d402c1dab8c85dcae73de9fdae2efbbd124be01218ea61e2a798a5"
+
+[[files]]
+file = "config/fancymenu/customization/loading.txt"
+hash = "ecfb533f5509f3acc06656133fb66eb1afa1a2905f88198c09e754b1a45cd3e1"
+
+[[files]]
+file = "config/fancymenu/customization/luna_screen.txt"
+hash = "68b10ec30647c203c637c44fea783f98ceff49729bcdfd7f9cd0b196c112bf09"
+
+[[files]]
+file = "config/fancymenu/customization/mainmenu.txt"
+hash = "a1664d45599b5529edf9c668cae9fae1bdb19326ca13e768b4136ad57057a1f0"
+
+[[files]]
+file = "config/fancymenu/customization/mpuc.txt"
+hash = "53c53367e3e0df2c7b0ef4c5ab50fd40c2c17a0893f4092d8a3f8c3d3963c8b0"
+
+[[files]]
+file = "config/fancymenu/customization/multi.txt"
+hash = "062d4f7f8d44b52dfcd84bd956b5cdfad34586b516bf41b338bbc90ca5b15d17"
+
+[[files]]
+file = "config/fancymenu/customization/multiplayer.txt"
+hash = "1cc2b89ac71dd33187a7bb8978d083b02709b5b0d02a54158ddf46267f372d67"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "cef0b6b4ed124cb2e5f0f19de2bd86cc59e6f7426a58d6d74bbd3554727553d4"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
+
+[[files]]
+file = "config/fancymenu/locals/ru_ru.local"
+hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
+
+[[files]]
+file = "config/fancymenu/locals/uk_ua.local"
+hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
+hash = "044b6e09f6fb66ce876ce5476c55ce9445479c099af7d844584bbcea93598d5b"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
+hash = "576794a582acb68f6ea80d70b4ff72effb50c473ff5ac471561bcfef6b9f2a32"
+
+[[files]]
+file = "config/fancymenu/panoramas/betterminecraftpanorama/panorama/panorama_0.png"
+hash = "e59f347665954b50eaa0d974a1ae06aa2646bb4d3a3481bd0d8faa8af47d8a5f"
+
+[[files]]
+file = "config/fancymenu/panoramas/betterminecraftpanorama/panorama/panorama_1.png"
+hash = "6610ddfb2262e0283c673674ee0f328086e9c7844aff1fd164679c4abc9da45f"
+
+[[files]]
+file = "config/fancymenu/panoramas/betterminecraftpanorama/panorama/panorama_2.png"
+hash = "cbddc5047375874fd60ced9a8248ff6f1f1bc0808c93da1c44660de8aa688d54"
+
+[[files]]
+file = "config/fancymenu/panoramas/betterminecraftpanorama/panorama/panorama_3.png"
+hash = "e41694c7d8539e520dca4ad1317bbec2cde0aa39662aa3fd801e74fbf3896a8c"
+
+[[files]]
+file = "config/fancymenu/panoramas/betterminecraftpanorama/panorama/panorama_4.png"
+hash = "3d284f63a375b237773fee74aff4e80b9e84e11a48b46e9e7d3eb18c913dac28"
+
+[[files]]
+file = "config/fancymenu/panoramas/betterminecraftpanorama/panorama/panorama_5.png"
+hash = "e011119a0eb7845afd5e87622e0e0255ca0142d6a37a88ba36a240cfc1d62481"
+
+[[files]]
+file = "config/fancymenu/panoramas/betterminecraftpanorama/properties.txt"
+hash = "357041dd503b38013ebe995b437c9103a7be01e7b3e0bfd6da43950dc878ac71"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "f27db2df244107a607158267a180cf1ad0adcd33b582e0394aa58b690a25806e"
+
+[[files]]
+file = "config/farmersdelight-client.toml"
+hash = "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014"
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+hash = "23dac8e8964b311ec6361b30dfb33db572a4bf13657c545bb1b618ffe7f896f1"
+
+[[files]]
+file = "config/farsight-common.toml"
+hash = "ae7533e9a074ffea96991df37d1c52f3e70262ad5e15f10d1ddf2c897d13466e"
+
+[[files]]
+file = "config/farsight.json"
+hash = "98a9f53e1e21247108a90e80b9cf4141fd7b432e219a262672ffedd5730afbab"
+
+[[files]]
+file = "config/fastpaintings-common.toml"
+hash = "4cce6e2bd5d9440c7a6f4618dc05eeb82cc2fc293afa892a3010efe21405ac79"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "c164439c632aa7c95c07edec5cfef74b8e2d5671a8445a781deeb4de7ad0c8b6"
+
+[[files]]
+file = "config/flib.toml"
+hash = "d72695400ec11f2beb0ed48d1d967fef1812254b19e8a667a9fe46fa8f476744"
+
+[[files]]
+file = "config/fml.toml"
+hash = "876a46c6d50416ae461363c8087a1e4c2388b14a8254bca6f75b15f8bbcb17ed"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "7bc724152ad613fc492e7439074edeed178bc3405fc80a741add5ab562626684"
+
+[[files]]
+file = "config/friendsandfoes.json"
+hash = "fbd525d53dbaad430d9afe43bc3082f62fb12066c069206603daee3b0f5b9acf"
+
+[[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "3a9a20a8a8a98b3508a378250661d57eeb79671bd3f5138d65a4f2062be996c9"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/decoration.snbt"
+hash = "4cd386a6e145971565e84081bb0bb4306411a55b3140fbc7c2acc40a7a5f7f23"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/deeper_and_darker.snbt"
+hash = "8d40c3ed8ffcec81a0e45a097efea26c5487f63cfbede458ef1f5c1606bfa5ca"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/everbright.snbt"
+hash = "0a48de758ac67519d819626b919d82366cc5c7dea7d89239623b792322f9c430"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/everdawn.snbt"
+hash = "112211013de29cd1035cf39ca277342fb0cb7b58287ebdae755c25e0f189cef8"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/oddities.snbt"
+hash = "daeb186a44a5fd5391b6e22cde0cc2d1e43da69cf59fa623b2736bf708546017"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/overworld.snbt"
+hash = "3044ab6158212ea56a81917f5fca4789b3b2113383eacae0b4e16c2d591c9aad"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/the_aether.snbt"
+hash = "1301997fbca2402f6aa833cb05d7e29a50bb4fc7ea0aab262423afcba67a1301"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/the_end.snbt"
+hash = "8799ab10fdb0be04336df57dac07140559d1ba8f9a6334d08402c7b009de8a7d"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/the_nether.snbt"
+hash = "ef022ed12d481d6913142768535041f065d91f82fdaa98d564066db2157dd2f3"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/the_twilight_forest.snbt"
+hash = "2f03eb06bb8dd6747b2628b1643e33a18252b9c9706113c3cb478383dd639abb"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/welcome_to_bmc_forge_1192.snbt"
+hash = "502f2341cc0f09cdbc22339592ae0a3c47e5f61fa506122f0d84fcbfd748dabd"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "52add27457a451cf4118157fc684ead6793345c97aabacce6871d7f1158f0419"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/end_quest.snbt"
+hash = "f3a1d0eb80657f574d6b9d469489525c64b0ebfbe6480c13009ab0653c0f8d1d"
+
+[[files]]
+file = "config/ftbxmodcompat.snbt"
+hash = "9abe2c7f784810cac3ca71c74d02aacd5fe6861d744cb143d077a525a2b42e76"
+
+[[files]]
+file = "config/geode.json5"
+hash = "00fb1a5c0265324489f67615600ac65f88e1fb0a4d6e313ca0a42d9f72ae53a2"
+
+[[files]]
+file = "config/goblintraders-entities.toml"
+hash = "891b782daf2ed84979fd2ca573e18c1af8fb7418525374d11ddb330fdf0ae6d6"
+
+[[files]]
+file = "config/guardvillagers-client.toml"
+hash = "0ea610c7e94452b89315e117551af0cc98f7718bfc52dbfb19260f19953a81ba"
+
+[[files]]
+file = "config/guardvillagers-common.toml"
+hash = "46596b9f88115afcc11356bb973afb8ad5cadd6ebdc1846f016608130ff352dd"
+
+[[files]]
+file = "config/highlighter-common.toml"
+hash = "22b7f87be30b7e3ce6fa3fe1cb588e8b3eae0bfc9ddc390ad346a1d1bbfebb4b"
+
+[[files]]
+file = "config/illagerinvasion-server.toml"
+hash = "c23108a744a44b56564cd545a066ea5365be382dfdd4a41944dfbc156e76d45e"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "645b87f55cf42c04dbab8f76dc7f3173a510ffdc712305fc62371ebac07fed1e"
+
+[[files]]
+file = "config/immersive_weathering-common.toml"
+hash = "b04457415124faecfaadf0fb64045adbe75ae74f1e2fda87737af9b50439ec6f"
+
+[[files]]
+file = "config/indium-renderer.properties"
+hash = "2d418e51cbfd8a147429070f3566ede34e08feb39eb4d44fa0ce12fe6c37925b"
+
+[[files]]
+file = "config/inventoryhud-client.toml"
+hash = "828e34c8aad403615aa411648464ec04c1d0582b1376b4f03f1a605551fea55e"
+
+[[files]]
+file = "config/inventorymanagement.toml"
+hash = "61640977ef02dd307e6781030924ebde648fcd262b2205ced4c3c27553f1602e"
+
+[[files]]
+file = "config/inventorysorter-client.toml"
+hash = "92de49a9405703845f2da9cde2b77dfa75c0088217c0c7a94d4e9ea200cf0549"
+
+[[files]]
+file = "config/jade-addons.toml"
+hash = "45993539b53c598bb5a856d7b3345e64a404105002fb85c18d33f8b5da8611f7"
+
+[[files]]
+file = "config/jade/hide-blocks.json"
+hash = "593c98f5249b3954eb8e1bd7e6cd6e8cfa25ac32b5b62c1b046341ca4b262e47"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "fd070ba7cc388b5e06adec34e626592348bdd2b2b3c6fe047af85e56aa6e1bad"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "44aa27fb83a7729bdd861b6ced80c639779ebcecdc0a2e194dfb3fe331b61843"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "be4ba4a757ce1d8bfd6b055ac1f634949475090c01623559adc876d289e3fc23"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "03a040952c0e897ed1b448faee655c7a0bc91eac1914fdec236edb3d44055a8f"
+
+[[files]]
+file = "config/jei/blacklist.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/jei/ingredient-list-mod-sort-order.ini"
+hash = "3aab0e9cebc5228470b38093f543a7cc2facbe063a98bccd6a406258996a997c"
+
+[[files]]
+file = "config/jei/ingredient-list-type-sort-order.ini"
+hash = "bba34e7c4840a21739c6a75a31f6ee79de6b76f912c665c55cb728cc801149d8"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "ad04abe1d6548d75d3dc5c3518a8a455a4d765010fa7bd789cc56c52105c7473"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "c6328dcf3fb8b20a9f6ea6b61266ce289565c167353e183a105fb4915c36c072"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "24f1a0313b8ae9b6bf450d962640312613fd0f9e9a21a26756b85a6b5ee3d46d"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "34eb990ae2cf62220a0d1be95629bcac46e6732f1cd6f7b6fdc54bcae02916e5"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "68c89aef08f62343b454b0c85b253e313af4a613f080c588857acb1f95f64d56"
+
+[[files]]
+file = "config/jei/world/local/Bear_Gang/bookmarks.ini"
+hash = "79acf7bedaf598c6b91ebce06b24479143d6c319e56bebed491bf265ead3e937"
+
+[[files]]
+file = "config/jei/world/local/Bear_Girl_On_An_Adventure/bookmarks.ini"
+hash = "bba560af88e7a42d99d8a8707b064d57fc1b9dce9e96683af3649329f36ccb3d"
+
+[[files]]
+file = "config/jeresources-common.toml"
+hash = "9dbe8c6973dc932be6dd20cb63381276740b23c75349dbe870fc8098c8529989"
+
+[[files]]
+file = "config/jeresources.toml"
+hash = "b101c668c6c658e2db126b7f6d3b9eb913537ff8903fbfce0128534299b2aea5"
+
+[[files]]
+file = "config/justenoughbreeding-client.toml"
+hash = "00be13904efb89c47b4c452dbc9b40d601b0ef350608b591c438b8468e106109"
+
+[[files]]
+file = "config/justzoom/config.txt"
+hash = "d9df9557879bee7b902e79d893b1d177cfe6866e7e01c4fb750e731ecb6d3e89"
+
+[[files]]
+file = "config/kiwi-client.yaml"
+hash = "7c7638d7e5db3076b78d3258fcb2dea7e25bb78b0308f43a8fa9ccc5f8ec4001"
+
+[[files]]
+file = "config/kiwi-common.yaml"
+hash = "1488107dd37c8f05131e65c5ad9adda7b674b08a8c0d639752d53b7926db2282"
+
+[[files]]
+file = "config/kleeslabs-common.toml"
+hash = "b630e660d677e22c694d5b87b5f2da9d8029e2a0ca9cbecbcdb6a774eae6e5c0"
+
+[[files]]
+file = "config/konkrete/locals/de_de.local"
+hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
+
+[[files]]
+file = "config/konkrete/locals/en_us.local"
+hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
+
+[[files]]
+file = "config/konkrete/locals/pl_pl.local"
+hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
+
+[[files]]
+file = "config/konkrete/locals/pt_br.local"
+hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
+
+[[files]]
+file = "config/l2_configs/l2library-client.toml"
+hash = "bee1c76cbc66e917babe40a1fc94132bc9c227aa69e17d27417cd77dab532e74"
+
+[[files]]
+file = "config/l2_configs/l2library-common.toml"
+hash = "1200e86c053c1bc905bfe01a6b69bc09c0ad21feae8ee25c23c48d345672a4f8"
+
+[[files]]
+file = "config/lambdynlights.toml"
+hash = "3cdc88c48c21d7bd7dfe6475d308ce04feadee798dca978b1c6423e60ded00d4"
+
+[[files]]
+file = "config/leavesbegone-server.toml"
+hash = "d959f115d82689b7f6075b0af48e8be95a09b3f73b6a67319646aa4bfdc0b101"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "ee3f607f5487af8fcab59ea9654528aa4886498e6b6ab5f249acb97625e133f6"
+
+[[files]]
+file = "config/lmft.json"
+hash = "9c6d50ee15da7ed165a4e4df8c4d9e1f30d5a22610ebb6193a6713b27f257cc7"
+
+[[files]]
+file = "config/logbegone.toml"
+hash = "3322cdb429a7a9b4027debd98137c7c2e31a749ffa7bcae7e9d6946289d1de69"
+
+[[files]]
+file = "config/lootintegrations-common.toml"
+hash = "bc62b7854e2debd123a5dd3555714a43877b9dfc9d44a886a7cac800e7f06785"
+
+[[files]]
+file = "config/lootintegrations.json"
+hash = "995a47300d6a6431feb1df51c81915875542a17a25f71c1a16c129571f694d6c"
+
+[[files]]
+file = "config/lost_aether_content-client.toml"
+hash = "afba6b0300fdba5f018e1316ebd88f31e8395f930de04419e7a140a3ba0b900a"
+
+[[files]]
+file = "config/magnumtorch-server.toml"
+hash = "1f65f23de94c2e4054d9dd5167811693e7acba633d6c8480e6e5122a6eb76f19"
+
+[[files]]
+file = "config/memorysettings.json"
+hash = "52a9d6921672e2d03835a697239d4a8ddbd2fe328f6005d73116fc5bb079cd81"
+
+[[files]]
+file = "config/mindfuldarkness-client.toml"
+hash = "750550a16476db45e7bd2e41c8158ed784e27eff319f73b83809ff52242aacb6"
+
+[[files]]
+file = "config/modernfix-common.toml"
+hash = "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "45bb0fe780f50ce872c1a2144cec9c4ec84ac26e060ee7499ffb2f5338a1de72"
+
+[[files]]
+file = "config/modpack-update-checker-info.txt"
+hash = "ef3bd5824d92746bfe8832cc3ab3ee160a63bca841380b84ee8f151e50b52416"
+
+[[files]]
+file = "config/modpack-update-checker.txt"
+hash = "f42585f0fa39fbd613f50340a93dfc0efbdbb6c91eef7355b7febb19d72be264"
+
+[[files]]
+file = "config/modpack-update-checker/config.json"
+hash = "83b5bec82137c8795d5eadff15231f91827edd82ddd65bae7e0c546c7fdde829"
+
+[[files]]
+file = "config/moonlight-client.toml"
+hash = "9b81f493d4a6a11eda44a019f1f1c9ecd0347523fdbd363b5f6534abda2d8f94"
+
+[[files]]
+file = "config/moonlight-common.toml"
+hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+
+[[files]]
+file = "config/naturescompass-client.toml"
+hash = "4215398614d28a24d2fe39593bf25981dd67ae46f85bc710ee07ba2d37c74c0b"
+
+[[files]]
+file = "config/naturescompass-common.toml"
+hash = "eebe4b4c01047b3d8cbf1106fcfe8af8e912ca62dfbb5258f46b36623b535fa2"
+
+[[files]]
+file = "config/necronomicon.json5"
+hash = "f97fc5ae7dd7d312e86ecddf2e4491fee3e3a16b7a26cbb3aa078fdd3255c4df"
+
+[[files]]
+file = "config/neruina.json"
+hash = "c8407c81c41d227c7f734ba5abafff9f5c3c533b66a9695e5d5f04afdcedeacd"
+
+[[files]]
+file = "config/netherchested-server.toml"
+hash = "f6db27df665cda11daf00195db304f45876262ae087751ace93631b8c26ac869"
+
+[[files]]
+file = "config/nightconfigfixes.toml"
+hash = "6bef543d9d16fdbf8ff4d0ed21a6ef91db78c52aa89efcd9a2ba56cbb18a4be2"
+
+[[files]]
+file = "config/noseenotick-common.toml"
+hash = "9a02aa6eb85b32e3c72b3a87a9d918066c7f490a9b6104355153917f3c05fcca"
+
+[[files]]
+file = "config/notenoughanimations.json"
+hash = "f734f35399f949a79b29328d6d0398027a5e5c4f5ffa15f35a44c8054b54da34"
+
+[[files]]
+file = "config/oculus.properties"
+hash = "2ba93236cf74a628f97aa237f39e27fbefab0761c546841a31df28815db67f80"
+
+[[files]]
+file = "config/overflowingbars-client.toml"
+hash = "95eff954328b6ce0d67ab9a0f6e6893f89c4b7784484ea49633a5b6231d846fa"
+
+[[files]]
+file = "config/paintings-client.toml"
+hash = "3a061cf93df17f94c375bef31cf2f5f4821457d7061fdeb3d581de8a03e04d6f"
+
+[[files]]
+file = "config/patchouli-client.toml"
+hash = "d289f4c7540e3e24bcf6bbf3f5a2aaaf87ccf58027d2213e40497fc627422068"
+
+[[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "89a86742f6110ea11b461860ec4eda79e3adf059272f1e1a0f2e1e6690dfd736"
+
+[[files]]
+file = "config/paxi/datapacks/BoP x FD Bark Cutting Compat.zip"
+hash = "40aca9f794a08cec9c352967602bf7033246156e07d613f849ff1e6d75f42c32"
+
+[[files]]
+file = "config/paxi/datapacks/LessStructures-SpacingTweaks-1.20.1-2.1.56.zip"
+hash = "26e66358fc8de45c068e02fc5dd42b1ba555a0001ce763528f6cda13318a7be7"
+
+[[files]]
+file = "config/paxi/datapacks/Quark x FD Bark Cutting Compat.zip"
+hash = "427b8043a2f75efc9fc4306ded555e8bef2a8c62fea80247adf14f510efe71d4"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Better_Dungeons_v5.zip"
+hash = "a6d7837bf6ddacfa7521f44dd1ee14bdbb7c0b6152857e175791fc7fa537d915"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Better_Strongholds_v5.zip"
+hash = "4ecace941dbbef488669ff6a6e44088b2bdc9e83662855b24d28d49a171152dd"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Better_Witch_Huts_v4.zip"
+hash = "009bbea81fb0f500ebea78112cbecee7bf2f94bf3301a342442f850132e47476"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Bountiful_v3.zip"
+hash = "880d7a0791d51be8e93fafb8e1181f2f6b6eb655642f36786803291a5c2770cf"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Bygone_Nether_v1.zip"
+hash = "673aa581e76dc4582edfa954d2502c42c5c44074967f666382ebc4d80185ba85"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6.zip"
+hash = "ff899242a00ddafb7fdb7d7a2b0654f1da06f3ac1a85bbb0a0512489dcf51272"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_And_Foes_v5.zip"
+hash = "8a2cfd70366a5671012e6c70c97ff1f9058f24ce56d4a1e466904fd06f141fbe"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-VillagersPlus_v3.zip"
+hash = "592e56cf4c9f4bba6f7c7585003c9b223d73737e9ab3c7d8c5a0273a8a489b8d"
+
+[[files]]
+file = "config/paxi/datapacks/WDA-NoFlyingStructures-OWEND-1.18.2-1.20.1.zip"
+hash = "d328f8483ede7105f3f1009ab07ada29ab96c32771acc63a41adab848942f979"
+
+[[files]]
+file = "config/paxi/datapacks/WDA-VanillaLoot-1.18.2-1.19.2-0.0.1.zip"
+hash = "3bbcaca8a773be45a2f3f7e04c344d418f797641311d8b9f312bce829858edcb"
+
+[[files]]
+file = "config/paxi/datapacks/comforts_ropenail_fix.zip"
+hash = "e62bee06da90968cfe8d4c3e61d0f96aa21f3ee2d8e975d7028f80efaf49ded3"
+
+[[files]]
+file = "config/paxi/datapacks/formationsoverworldconfig.zip"
+hash = "56e19786aed6858fcb58ba370ffc3390901edbb9e11a92285e38956a1d6509fa"
+
+[[files]]
+file = "config/paxi/datapacks/ichphilipp-s-endcity-vanilla-v1-1-1-18-1-e640.zip"
+hash = "e8842082a1ef6190060702d9a59622d9be4c06c1ba0356cf6a8589a5956e8800"
+
+[[files]]
+file = "config/paxi/datapacks/redux_arrow_fix.zip"
+hash = "b246f552c2b212e31b7ceee2285a0873741c36d25dd5a02315f4d5aa275edd4f"
+
+[[files]]
+file = "config/paxi/datapacks/scarecrow_deaderer.zip"
+hash = "5846c5eb3bc205ff6e1b9d681b93d3876aea89555bba2d44c0e0abde4700dc00"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "89a86742f6110ea11b461860ec4eda79e3adf059272f1e1a0f2e1e6690dfd736"
+
+[[files]]
+file = "config/philips-ruins-common-configs.toml"
+hash = "fa29a89fd74f2f73db79b7164d51f86ef9478bdd8ed6c6e84a853bb00d73f982"
+
+[[files]]
+file = "config/pickupnotifier/pickupnotifier-client.toml"
+hash = "242a0f58407ecc71ff5e2c6cd2910001c089ee4e6130454c377115e8a8f3c83a"
+
+[[files]]
+file = "config/pickupnotifier/pickupnotifier-server.toml"
+hash = "6e18bfa2ec02629937474e436f3f44fb67d54fd6e6b47a7c9b4c5b3a3bd83916"
+
+[[files]]
+file = "config/ping-wheel.json"
+hash = "20479fe338392ef760d76f9f05063085111cead593dccea81aa55133297add4d"
+
+[[files]]
+file = "config/polymorph-integrations.toml"
+hash = "43a7425a314be7d78c2e31d44ab8f46c5ee824ab10906ab8909923d23646b6ad"
+
+[[files]]
+file = "config/puzzlesapi-iteminteractions-client.toml"
+hash = "a6aaff33ecabcd21bd315e1f8167716faa333d64e5dc166b270a26274c5cbdd0"
+
+[[files]]
+file = "config/puzzlesapi-iteminteractions-server.toml"
+hash = "86ff328a054a94ad7845364eee53b77273614c13643d9b35bba1b430ed7123f7"
+
+[[files]]
+file = "config/puzzlesapi-slotcycling-client.toml"
+hash = "480697ae74306cdcd17eed12a34795b7856f00d183d06ce69fd0fbf046c54c2e"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "0a087bbbd3c03fd4ded62fea59f95b68ce55f1e4fec113cf8efcdf4faa287619"
+
+[[files]]
+file = "config/raided-common.toml"
+hash = "66b2e906e56932093d0292e9c83c88ebdc0db75f6b33bc812f089b82cc23bba5"
+
+[[files]]
+file = "config/recipeessentials.json"
+hash = "c091866387c5480b8d5503134af24f763f6ef8ee7da369ff2f16f02394e52342"
+
+[[files]]
+file = "config/redirectionor-mixins.properties"
+hash = "f1ba68dcefeb7a7779c01ccaada8b7a5905b9637c39efe13960e9d5729ce51e6"
+
+[[files]]
+file = "config/repurposed_structures-forge/modded_loot.toml"
+hash = "2e19ce956057b47999b99180c57c3cc591a58b7eeec739aa70c3c88c5adbcce5"
+
+[[files]]
+file = "config/resourcepackoverrides.json"
+hash = "ed046de67e9bb2fded3cd7205a2a105dd64d2e0de5842931875c8511bbd85e66"
+
+[[files]]
+file = "config/revampedwolf-common.toml"
+hash = "3922ee40567c02720e57d4c01066bcadf46bb9dfad24b9f674ed072ff942f6bc"
+
+[[files]]
+file = "config/rightclickharvest.toml"
+hash = "5c4c186994cfda2bcf0f983251f3a09f33ade756e4f6894de638d39a5b5f6a6d"
+
+[[files]]
+file = "config/rubidium-mixins.properties"
+hash = "b35b099a51f0cc1cfd94b1a1444de0d0d0c4e1b3399575504bbdcfaf02c359b0"
+
+[[files]]
+file = "config/rubidium-options.json"
+hash = "25bda98143cd9540d2926c65659565ea2c929dbe3810dcff262de6d85be01431"
+
+[[files]]
+file = "config/rubidium_extras.toml"
+hash = "49ea643883005a969246747f0c1681349f6d9ada65eee6c7d7078fc4b3eb404a"
+
+[[files]]
+file = "config/sawmill-common.toml"
+hash = "d5f351c43463d24adfe55fe9d493d55be0354cfe349ff59eab007df6a213e19d"
+
+[[files]]
+file = "config/sdrp-common.json"
+hash = "4b96aa817214063f6893946fd88898126812944fd8878254ff92265d6bdf6a56"
+
+[[files]]
+file = "config/sereneseasons-server.toml"
+hash = "ebde3e0d3acaf11e4bfeab469e44d4e1f5d408c59e54402883ad1f88ca01c122"
+
+[[files]]
+file = "config/sereneseasons/fertility.toml"
+hash = "8a9d38ca6b3d5054984f03f4f97689c1d6bde5c2b84250095033d3122576fc2c"
+
+[[files]]
+file = "config/sereneseasons/seasons.toml"
+hash = "4fe5c2073c3a7a58c6388467b853347a09dffb9d67c2bd86bf57c9dcb3970bf2"
+
+[[files]]
+file = "config/serverbrowser.json"
+hash = "5fa43b6fa42a2f0dd48b0a1708684c8daec01b10a4a9ff673c49f48d9a7c1708"
+
+[[files]]
+file = "config/servercountryflags/servercountryflags.properties"
+hash = "dd6e0c2bb55e67bf5d01ec300ccdbd633bad4d32a38fee8f744d361b1fe4d56a"
+
+[[files]]
+file = "config/sidebar_buttons.json"
+hash = "d12bcdd59a36b21e0aafaab84c9ef6749d8aeab3e28e814571625a58a5db3a87"
+
+[[files]]
+file = "config/skinlayers.json"
+hash = "45b0868483a96eac16a4dd6503eacc1e3b30c7540b006131b533c40ebb87720d"
+
+[[files]]
+file = "config/smoothchunk-common.toml"
+hash = "a398566ff05125f7ebf431175d866babe6309c9fbee654db74fc869128a62f71"
+
+[[files]]
+file = "config/smoothchunk.json"
+hash = "d0b988aa519ffd031e5421091eec1054464f2e29e48781f6274efd977535f574"
+
+[[files]]
+file = "config/snowrealmagic-client.yaml"
+hash = "34909564dc66fb400f716437577c349965144e46febfb432a388aed3b0fe81e9"
+
+[[files]]
+file = "config/snowrealmagic-common.toml"
+hash = "04e5a224dced0d0b62054e0860d243b499d2a220e0ee26ee3f33745f2f89b166"
+
+[[files]]
+file = "config/snowrealmagic-common.yaml"
+hash = "8bd31c6d17e43e6e5065081bf5dd7090af4415b43d15834ec954fe13b03f40ea"
+
+[[files]]
+file = "config/snowundertrees-common.toml"
+hash = "c554d592cbfb283aefeee5de67b89d84c51fdd305712d329b153beb7c9a7068a"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "0435952fd5615429758a9adf4c32a3bff6b5bd0abb30b42f09ebba510fb4d710"
+
+[[files]]
+file = "config/sodium-extra.properties"
+hash = "ab259e2369fc503c0cd905ec9b57b5867f4dbd249edf7a2b52193b36ffbcdeab"
+
+[[files]]
+file = "config/sophisticatedbackpacks-common.toml"
+hash = "6674ec92f625296aa8accc93d71fdf1eecfc8050111c5ae7b6d9a94b4fe14506"
+
+[[files]]
+file = "config/sophisticatedcore-client.toml"
+hash = "06813199751af809ce5043408f99066b30dccfa72b2597d74543dfa6b64e8d36"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+hash = "533ec377d425109c40fe0bbb4d8c884a640f03169ee75c95132729706e34926d"
+
+[[files]]
+file = "config/sound_physics_remastered/allowed_sounds.properties"
+hash = "a7880500d420ceb946e2328edec6a53ea6b3ff8981103854cff7f8f0782c4e8a"
+
+[[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+hash = "b584d04e45c7f984764ee5c29a6e8c1ae9f4d648e53f2c2e173081be1bfbb17f"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+hash = "7e46401bdc47f95bf4b40d1ee6788b0da2475c2a68abb3877fee3e3ca1dad843"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+hash = "b30022fe747af5b629b8fa148f3ef354e9bc3e72c7e1c46cd292275eb6658801"
+
+[[files]]
+file = "config/spark/config.json"
+hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
+
+[[files]]
+file = "config/sparsetructuresreforged.json"
+hash = "840ad6c1fb52c5e4755d45664830e752de2c39101d0f5bdb1fa957a73f95441f"
+
+[[files]]
+file = "config/starterkit/starterkit-old.txt"
+hash = "2863ecc963d0153cdd3734ec46fe9f7ec2d6ccec575fe345fc061cfa5fa28045"
+
+[[files]]
+file = "config/starterkit/starterkit-old_0.txt"
+hash = "c935dc14c7cb0fa82369431428c6c83e0e15a2ff54778ef91343a3585c87b8e9"
+
+[[files]]
+file = "config/starterkit/starterkit-old_1.txt"
+hash = "9755e7bb7ef0680dbf149c0827702d0f398a735e843401d010fb83418665c34e"
+
+[[files]]
+file = "config/starterkit/starterkit.txt"
+hash = "be26a17581881157a23b8a4fc050e133c5badf8ca85114e3dc1f0787b1c97739"
+
+[[files]]
+file = "config/stoneworks-common.toml"
+hash = "6080a05cd098b77c4309c967b3ddb55e22aa3386a01d5feda680f312f6cbeaae"
+
+[[files]]
+file = "config/storagenetwork.toml"
+hash = "7f8d56d09201cef633996be90d0214b45f5e25cfbf474483538dd7039c305b7b"
+
+[[files]]
+file = "config/structure_gel-client.toml"
+hash = "8058ecb1b7e59f183db54b31fe49e2040bc222294a46ba5c7c82a172a7277354"
+
+[[files]]
+file = "config/structure_gel-common.toml"
+hash = "888d2904bd7dd577f72d901603912a440540eba21212b004cf6abe41f1cde23b"
+
+[[files]]
+file = "config/structureessentials.json"
+hash = "e38122ebaea862c3f5d0878298a28e39bf791b448d2ee14dc164c798f5df15ea"
+
+[[files]]
+file = "config/supplementaries-client.toml"
+hash = "28ea64f00c7d344c362f431eb523fce8a4a6a2097c0c03ddbd61bd7673dd7a45"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "79b66cd34f431a9cf537da7352679085ed8e429a26faba7536e262642fc0bd41"
+
+[[files]]
+file = "config/takesapillage-common.toml"
+hash = "90578d0d70a56b8ce30b2c0531aa0b8a7cf25d53d16c070759425c292bd7da56"
+
+[[files]]
+file = "config/terrablender.toml"
+hash = "59d79e8bc4a42e678196a7164e5841a9803f8684f1b52b9944ce554c9f353691"
+
+[[files]]
+file = "config/tide-common.toml"
+hash = "2f488f8ec5fb9e35ca47360a113fde138a16e698b98878c322fcb724d11a9f21"
+
+[[files]]
+file = "config/tips.json"
+hash = "76ec3342ee9f2bc464eacfb3fb8ced0119d1befd2d8fa26f8c35e3286a1f2c73"
+
+[[files]]
+file = "config/towns_and_towers/structure_enable_or_disable_new.json5"
+hash = "fc7feca1202d8f62fdd3c103be38f5df97bb8968822df5756cfa5920271012b6"
+
+[[files]]
+file = "config/towns_and_towers/structure_rarity_new.json5"
+hash = "a0965fc9211eee61896671763086133dba1e760bbe6849f84772bf575c7d8ae3"
+
+[[files]]
+file = "config/tradingpost-server.toml"
+hash = "9b8e43967d82532c59db13620f764f47ab6aef83fdf6ad50f71a24a384c34f7c"
+
+[[files]]
+file = "config/twilightdelight-client.toml"
+hash = "8c145f814d98a7a9465efb9496c5ebe703b89c92c6f5f43bb18a65e36a2d7f17"
+
+[[files]]
+file = "config/twilightdelight-common.toml"
+hash = "478995f0277c0bd0745a91ab6914be37acafa0075a5f9ba876b018850481c08c"
+
+[[files]]
+file = "config/twilightforest-client.toml"
+hash = "7df74722394aa6f9b662317ad4840fc9b0a2e11c394ef6da2b3d9eabb62808d3"
+
+[[files]]
+file = "config/twilightforest-common.toml"
+hash = "90c4100e78047bf3cea912fd799038d94bebce3b435cf9d48a5a163c348d156d"
+
+[[files]]
+file = "config/veinmining-client.toml"
+hash = "c6204c13fbeb37db57bb5e3c03049704c692246c7cf195514e4ae608047b5f77"
+
+[[files]]
+file = "config/veinmining-common.toml"
+hash = "7c1961dc0a6ff2bef31f5160d3170c505ece73bbc0ffa44e6e580b8cc73193d4"
+
+[[files]]
+file = "config/veinmining-server.toml"
+hash = "ecef285c4c092a3c89440ac1dcad0a027553aa6573ea84dcd129feb5a8a87d40"
+
+[[files]]
+file = "config/villagernames.json5"
+hash = "60abf1bcaecba0e4929805f0a3b57446269abe81f5202a5c0a9abc2b99fcccc9"
+
+[[files]]
+file = "config/villagernames/customnames.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/villagersplus/villagersplus-3.0-config.json5"
+hash = "a32bb4d92535a1aebbfae239b8518cfd265e151b0976b5517c0ce91cee1a24e8"
+
+[[files]]
+file = "config/visual_workbench.json"
+hash = "9bda993074c56a87405bf37ceb4ac07157445772b6401f46bb13720117eeb4f9"
+
+[[files]]
+file = "config/visuality/config.toml"
+hash = "4127fd1edf4e15159bb8365cb8816c5ae0b6108a02d34aa1d964f4e16b7e3275"
+
+[[files]]
+file = "config/visuality/particle_emitters/block_ambient.json"
+hash = "3644fed54dc44e8ab14647bb8a2d18106691db0a1c42c2fbcc7afebaa6be65f5"
+
+[[files]]
+file = "config/visuality/particle_emitters/block_step.json"
+hash = "ddb1951d7f23f1fdb5e364625fa28807e1fe8e35db0e7d1a041e55e8d4734d55"
+
+[[files]]
+file = "config/visuality/particle_emitters/entity_armor.json"
+hash = "88e3af27a54ce67d0b9c1764df6c98b83178727779c6a3381fea48363ee8330b"
+
+[[files]]
+file = "config/visuality/particle_emitters/entity_hit.json"
+hash = "6aac9628ff5b0424112cf53e9cfcda19096eb966b0a1a95ed64c99b165823276"
+
+[[files]]
+file = "config/visualworkbench-client.toml"
+hash = "a48b352862f74f6fe3ab071e7e43e631618e9c5f68b5f992b591d4dc87992954"
+
+[[files]]
+file = "config/vivecraft-config.properties"
+hash = "4eb247d6b56f29278a6d852e06f48b38b4430b0b476ade1e9fdb3a1fa17c5304"
+
+[[files]]
+file = "config/vivecraft-server-config.toml"
+hash = "3a2a88220332165f437b2cc8c1c707e96a01d86a62cf0b4db7900ab75ee5bad0"
+
+[[files]]
+file = "config/voidtotem-client.toml"
+hash = "6c72cc82e466643ebd88f565f79b6a1bd7ee6d7f973fa06a6c66c6cf35e757bc"
+
+[[files]]
+file = "config/voidtotem-common.toml"
+hash = "af7e3140dcabae3acb0ed21c95b75439094038f4f89753b94b6592829e35dc06"
+
+[[files]]
+file = "config/watut-client.toml"
+hash = "115fd65142e8ee4bd2db25fb5208fc59ee6d27b4f27c2b19afca7b754425797b"
+
+[[files]]
+file = "config/watut-common.toml"
+hash = "17a113c1bf3c30dca221ee72b7285cf1cee3aea24fd5a48d82c47398e2eaa726"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "f682e353825fc32e5de22d716e26f8a2f59163f1fb56638eb87fe401b44433f2"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "aa60d0aaea44219f0a4ca2278472a0b2b62313b3b30ca7145bb501f2cddbbe92"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "edbc8afddfe507c4e58c2c34f550eddeeed5fc4b1adaecbd3ff046fa8f65a816"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "36a890045fce4aa69f1c550d5a49a62b336cbb7911a7afa6956fcce5d4d9dcb8"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "103979a8e59e396f99fb8646c4f8a690c2d743ca3744a2eb8f663b3102b7498c"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "71d33c251c3108a02770d86996e06674eeabea876063ee97fadf113840e03808"
+
+[[files]]
+file = "config/xenon++.toml"
+hash = "93ebe1e82913579de216d39c6b4158a5d346e5258663f21d9cfdd5e95f845005"
+
+[[files]]
+file = "config/xenon-fingerprint.json"
+hash = "3927e295cfb95ac4e9442bf54071dd750279c75aff32754f978e289026de49e1"
+
+[[files]]
+file = "config/xenon-mixins.properties"
+hash = "b35b099a51f0cc1cfd94b1a1444de0d0d0c4e1b3399575504bbdcfaf02c359b0"
+
+[[files]]
+file = "config/xenon-options.json"
+hash = "295c4e2ef78409b5289217404503313ac94bf71cc9f5768e459d2e7c56aa5476"
+
+[[files]]
+file = "config/ysns.json"
+hash = "605b131ad2f3db5cc295688975cd32a57eac138db4c314b79b0189b81d4c346f"
+
+[[files]]
+file = "config/yungsmenutweaks-forge-1_20_1.toml"
+hash = "880b5e4a8471f830eb58bea3ce6dcf640821257b03d9607b9bd4dc0835f0a298"
+
+[[files]]
+file = "config/zeta-common.toml"
+hash = "988b64450afcf3ab25eb4cbcdb448ef25b44747031278cddfb10bbb9c1837b2e"
+
+[[files]]
+file = "mods/.connector/Eldritch_End-FORGE-MC1.20.1-0.2.31_mapped_srg_1.20.1.jar"
+hash = "fcaafd895df53d52cdd694b703479345e397196e649aaa0d2d79552dac5755de"
+
+[[files]]
+file = "mods/.connector/Eldritch_End-FORGE-MC1.20.1-0.2.31_mapped_srg_1.20.1.jar.input"
+hash = "eab8163c767efd1da7366a7e0aaed1f2e03b11a5ff0e382205704df1bcb6e880"
+
+[[files]]
+file = "mods/.connector/bclib-3.0.14$wunderlib-1.1.5_mapped_srg_1.20.1.jar"
+hash = "f05461379f5dbdb634b76d34bd2fc6e83a9cf9fc7474e4a5e5e47f00e1027fd2"
+
+[[files]]
+file = "mods/.connector/bclib-3.0.14$wunderlib-1.1.5_mapped_srg_1.20.1.jar.input"
+hash = "18e201c8d74e9c67a46532008c992e5b00366067491d593f21e8dc08e3ebcd16"
+
+[[files]]
+file = "mods/.connector/bclib-3.0.14_mapped_srg_1.20.1.jar"
+hash = "a08d76db8ba02b4deecafd34b85f22e9db5765fd00f86405e9429f5ac8b24744"
+
+[[files]]
+file = "mods/.connector/bclib-3.0.14_mapped_srg_1.20.1.jar.input"
+hash = "ea36f7a1c1102ed2e024eb3beb2aa68711058dd68deec7d84e540003fbc4dc0c"
+
+[[files]]
+file = "mods/.connector/better-end-4.0.11_mapped_srg_1.20.1.jar"
+hash = "327857eb57c190ca6369232263ffeda72e47b0706d61899c282db54ed465d394"
+
+[[files]]
+file = "mods/.connector/better-end-4.0.11_mapped_srg_1.20.1.jar.input"
+hash = "94a60c1c36d8e3d1fbec827d8ee7d394bb78ac43bd58204a94136e4293e88b17"
+
+[[files]]
+file = "mods/.connector/inventorymanagement-1.3.1+1.20_mapped_srg_1.20.1.jar"
+hash = "0233d99ac287232eaaae6e0f5bc9cea223e6167de8a9434cbfc0aa3b2503b7be"
+
+[[files]]
+file = "mods/.connector/inventorymanagement-1.3.1+1.20_mapped_srg_1.20.1.jar.input"
+hash = "9aa02d3bec4aff5fff3b804071029877d71cf82d3748442bc99206de5972aa95"
+
+[[files]]
+file = "mods/.connector/spawnersplus-2.0.1-1.20.1_mapped_srg_1.20.1.jar"
+hash = "606c0a04a2609c651f623d9b0dea5a0f92e68ddb45320f1c6287f1357e3dbb54"
+
+[[files]]
+file = "mods/.connector/spawnersplus-2.0.1-1.20.1_mapped_srg_1.20.1.jar.input"
+hash = "f4ff6594c0cf1bb68cc63026c354f5ce48bcd663e3a4f49e10d0b6b9eaca6f38"
+
+[[files]]
+file = "mods/.connector/temp/bclib-3.0.14$wunderlib-1.1.5.jar"
+hash = "40a56fbcaca5c1a01abddba67bccc8f47d2b707eeb954ba2e129555790a2c09f"
+
+[[files]]
+file = "mods/.connector/temp/bclib-3.0.14$wunderlib-1.1.5.jar.input"
+hash = "18e201c8d74e9c67a46532008c992e5b00366067491d593f21e8dc08e3ebcd16"
+
+[[files]]
+file = "mods/advanced-netherite.pw.toml"
+hash = "69d2e6449275d7b823e48a8ab656e99e526250ff394a99d11bb05d4d06eb8630"
+metafile = true
+
+[[files]]
+file = "mods/aeroblender.pw.toml"
+hash = "7885154390b9961ed757a8f2178a09ab00f20a90d53fa9ba13851474a3d6fbe8"
+metafile = true
+
+[[files]]
+file = "mods/aether-delight.pw.toml"
+hash = "c1e73cda7be31eaa0cb6afbd430eae9ad811e6cbb1091abf09c6bc86f527dc0e"
+metafile = true
+
+[[files]]
+file = "mods/aether-enhanced-extinguishing.pw.toml"
+hash = "b9f94997f59d0b96fb730d6c738faf83a570573d710aada2ee404d38a759bcf5"
+metafile = true
+
+[[files]]
+file = "mods/aether-lost-content.pw.toml"
+hash = "0093665794d9745c4d0529f78694aad2c852f31ea0e8f8cdc2fdc0d42ab86ca6"
+metafile = true
+
+[[files]]
+file = "mods/aether-redux.pw.toml"
+hash = "927ec573cf3662f8dda0bbd0a6ea365fe7c097354308ea454ad45dacd04978cd"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "4867921530f3d20012bd33a737c21d2d34d2c8b7659e350376884606d30a984a"
+metafile = true
+
+[[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "a3d9d29881ae93abf981c45c83dbb2c91bce885168fcbceec82c4a6268692d51"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "2362e168d550f0a3a3bea1715a495d7c54fe6e9f159b948981eae15c53df597c"
+metafile = true
+
+[[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "cb65618762547645cd50cbdebf7613fe72dbc1a16350cf3e3e80453970371ec2"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "960890be34fda21cd78de480ca9dc367b518500efde04fc7fc34bc94ac383d89"
+metafile = true
+
+[[files]]
+file = "mods/ash-api.pw.toml"
+hash = "6e055d9a52c0c2eece73425b68d59c89b23b0aa091d93269863e5869b0298d6f"
+metafile = true
+
+[[files]]
+file = "mods/athena.pw.toml"
+hash = "d923b6a71a0c4abe91cac75198a4874f9a3d51535d642512e9358747070380fa"
+metafile = true
+
+[[files]]
+file = "mods/azurelib.pw.toml"
+hash = "b58bc76be12809afeaa0440ea218b9eba2156c6832701d9363b5d2bf0f9f1e5d"
+metafile = true
+
+[[files]]
+file = "mods/backpacked.pw.toml"
+hash = "41311b8439a35e4abed69db8fe90994b2667d3829e8fcdb856272c0c070cd2b2"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "cae6023d6d63ece54fbb19d791b33c632fbce2af37c47046542069445c25f139"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "b606f8c0c695d6ff09d6d140eb107a3d4b96fc3575f15f512a6e44440c00f51e"
+metafile = true
+
+[[files]]
+file = "mods/bartering-station.pw.toml"
+hash = "735dd212445fb96f9aedd4d7333350ac6ea3476f1ddc758f80625716a0fd0198"
+metafile = true
+
+[[files]]
+file = "mods/bclib.pw.toml"
+hash = "0c6982d793283b27ef35fdc3b57b7b9554fbc162c03ac7431ebbee9b1d5b241c"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "2b4cfbd99c6edb4a05244c92d33bff12b91ae4813554d6d60398e5682b92efe6"
+metafile = true
+
+[[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "af0789695f702d396ca34e3eb826801ab545b967a3fb400033469f86965be5ca"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "a167c88b43b73530c14b77d8cfa8c3546ee665ffa317f0451a6767e46bdae0de"
+metafile = true
+
+[[files]]
+file = "mods/better-fps-render-distance.pw.toml"
+hash = "9e2f07402decc016fd68cd69411de7e2f5292e5b7dd22276e8682b832edc884e"
+metafile = true
+
+[[files]]
+file = "mods/better-mods-button.pw.toml"
+hash = "b7343dc0912ef9ef728583a15415f125b96fa7babf144cdaea8d58850e029447"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "4b8ffbe47270effb2da83ff2fba6e5dea0158a515033b61a484a21aae6146a76"
+metafile = true
+
+[[files]]
+file = "mods/biome-music.pw.toml"
+hash = "2a2ac57211c38debab8e03eecfe3499e8b95b3f9a5047001e16943120442c471"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "b0119b17c7c9a075780d55dc87749942a835365db5578102d6250db8875e8267"
+metafile = true
+
+[[files]]
+file = "mods/bisecthosting-server-integration-menu-forge.pw.toml"
+hash = "6a0a21af1cecc7308f2dcb6b7e3acec287fadced010325950303a86f399ed9a0"
+metafile = true
+
+[[files]]
+file = "mods/blossom-blade.pw.toml"
+hash = "3302d50174e3713bde5a3f3e84d28a9ccd199c82c5bc94f2f85438e17721bdf0"
+metafile = true
+
+[[files]]
+file = "mods/blue-skies.pw.toml"
+hash = "6836b52a7002d343072a72dcb1f3370ff8ecdda43ea6499cb0f1b1892b5fe7a3"
+metafile = true
+
+[[files]]
+file = "mods/boat-break-fix.pw.toml"
+hash = "f60a63c3251ebf33f6636e5fd773f281d3f09b3a273e346b1d2547cc0c67559b"
+metafile = true
+
+[[files]]
+file = "mods/boat-item-view-forge.pw.toml"
+hash = "2a0cbaad9d909a6aa70026e7a87de9fe19bc295baccf2c5aa1609e329be8b011"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "1d13a8f9f1068fafd8848c08b2b64a6d6014de3338ce2c4499e44d6346a35449"
+metafile = true
+
+[[files]]
+file = "mods/bountiful.pw.toml"
+hash = "79e8f00ded5245e95e096c1b764ebd8bb4dd1b5eeeae6ce89d97d5d07e662ed3"
+metafile = true
+
+[[files]]
+file = "mods/bygone-nether.pw.toml"
+hash = "dad35c9ae77d98a29167227bf61213101aef4533ecc80e48336d71334401fe1a"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "3f8431a6051fd48b0ab6a2080de605cc8c8cc2a3041800b04c80d32b9ca57547"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
+metafile = true
+
+[[files]]
+file = "mods/charm-of-undying.pw.toml"
+hash = "e2ff0e13ee116c5e0bb75943b34d28655f9f795f50d1373df9f84a76a728e305"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "a7203ba63f63a8e940da35f36ac47f0fdea343b9f2b60a6be0f503afb7c4d1c2"
+metafile = true
+
+[[files]]
+file = "mods/chefs-delight-forge.pw.toml"
+hash = "983166b2772e51c89dfbd99c6ee781bf2dc3097e01b8054a0ec4d6ffae385074"
+metafile = true
+
+[[files]]
+file = "mods/cherished-worlds.pw.toml"
+hash = "fd8efbdb96ececfaf83cf6c6f7bc441ed73e6ff90d6b3eb64408507f819186b1"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "cacc272fbc39792570ea3e72ad8856cb0b923f69ecea2beb6b1560f00411d178"
+metafile = true
+
+[[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "86252c4e6701b798dac5ddef4b0fa6b6f5bdb280e83945b5b98d7c0be4441a35"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "868e0da536e928b1510a81f1cb3cefdeb151580d3672c7a14642817e889c9a29"
+metafile = true
+
+[[files]]
+file = "mods/client-crafting.pw.toml"
+hash = "8708549001bab45590a8560d7c0dd9b0859e416887f7b63b3edd2c09d05246e5"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "f2bc9a24518e286b908f6e467e92070818ff3c3003d8ff75675b83094c56b10e"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "079900b62dc3db7d111eb5cea93e34867dc26e22243e711734b50181c844c11e"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "6bdf5c00414be2b3bb20d040afe2e90550a300755414aaff01577eed6eaf491f"
+metafile = true
+
+[[files]]
+file = "mods/config-menus-forge.pw.toml"
+hash = "d7c2a547057823e43871c7a432a95b5a821e4da5f9fa574a53617642e90d1a43"
+metafile = true
+
+[[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "29c9add8e5361b1b4af4e5c024f3e1d00e1d2d3d4907d2b95402bf03d0ac5b49"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "0cdd209cbf66b8929f8250f520e2bcf94056f57c82921444875265fb9db1f64f"
+metafile = true
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "ffe1c86b1d8f6c23932ba5f20ebecd44884da0ca31c1e6ce2ecf1e951047dae9"
+metafile = true
+
+[[files]]
+file = "mods/controllable.pw.toml"
+hash = "a43401d685fc24595cb18e5a51f4fa7af4a4dee2ba7bf7879a08769b037495fa"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "cc2baab30142f37603eea9f415185d1983886c6e17b0b4b91c815f49c002e070"
+metafile = true
+
+[[files]]
+file = "mods/crabbers-delight.pw.toml"
+hash = "86b677d6cc9eba66de970c3ab345ffabe0a8ce3e29d689376b5bb1fde72e4e2a"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "4ae2c1b627cfede58a8add7fde29c6d889426aa72ea09a852a402a861aa95166"
+metafile = true
+
+[[files]]
+file = "mods/cuisine-delight.pw.toml"
+hash = "e7978441a66ee9f188e810d3c29137f3876334e0ad3e3bd6b38f5c7f051c2667"
+metafile = true
+
+[[files]]
+file = "mods/culllessleaves-reforged.pw.toml"
+hash = "e38d187eefae043e892eb6ce932f5360718d02d71f9e8072e8ec38ec0667753b"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "cff7ef62df63f3a19c5cced1516eae0e7489f36e1aee4d83461271356308e7ff"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "36672819f67335f5cdd349f49faa27582d6f7f68955c2a3d0e62584b6d6735ee"
+metafile = true
+
+[[files]]
+file = "mods/cut-through.pw.toml"
+hash = "074d2119ac83b7e6e81e1433edaa51cc33999ead5e956a9b391d0b749dc76b69"
+metafile = true
+
+[[files]]
+file = "mods/decorative-blocks-fork.pw.toml"
+hash = "00c9780f72072fb1c98639a354d5bc62788f1e4f5bb4c9b805d478093fb27c9d"
+metafile = true
+
+[[files]]
+file = "mods/deep-aether.pw.toml"
+hash = "1b61f7ee7e5ff0d9e449004e60c09ee198f11d9f13ee24962bb325f66751667c"
+metafile = true
+
+[[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "c2693b6cb0bbdfbf84b166382f8612c8dc8ccc02ab5fa66d44bf7ece75f48afb"
+metafile = true
+
+[[files]]
+file = "mods/delightful.pw.toml"
+hash = "f79e7b3f1653a71b6f256a41bc07e43401a0fa0c2bd865676e1812ae6ecad13a"
+metafile = true
+
+[[files]]
+file = "mods/despawntweaker.pw.toml"
+hash = "0df48080db1c3bedb06c19c252540ea53e804bd133173bc48e0d18b3b54cc426"
+metafile = true
+
+[[files]]
+file = "mods/deuf-duplicate-entity-uuid-fix.pw.toml"
+hash = "2a1eb851bbde3506fdb00e85466915ff5c19204aa220d487220d5671adb6913d"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "3ade0d7835545d6d07008bf1aa0562928f3cb689b97e417f81a8d2bd9d82a468"
+metafile = true
+
+[[files]]
+file = "mods/dimensional-sync-fixes.pw.toml"
+hash = "018a734cf769668782dc519d780801640e5e7c5103cf0e3b32805d292c244c0c"
+metafile = true
+
+[[files]]
+file = "mods/dragon-mounts-legacy.pw.toml"
+hash = "5b09d3ffda8b156081cbf0e0e2d8b118d5c048004a0c89158c7dac2c4fff0d8c"
+metafile = true
+
+[[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "d23d55f59668ad879c2129b8965a9161c87011ccfa2cf15c46ffb35f1aef19b2"
+metafile = true
+
+[[files]]
+file = "mods/dungeon-and-taverns.pw.toml"
+hash = "f78a74da46bfdaa915c892b5ba9f63b2512a4a3cd13a287154da4c37b6369629"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "cdb5611c5c1f11b93e77cad11e219b9d7e1a913304dc50fc8c2c6bc12b6a78f1"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "6e00b7d2b9e48e4286f7313f848b2520ebb26315672bfa4a27bef23d02db2ca8"
+metafile = true
+
+[[files]]
+file = "mods/eldritch-end.pw.toml"
+hash = "3b115a5b4c07081ef482e6fbf54cd962e287a5c0bc0aa88b2c73ef0f1bda218b"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "a2663a196a9991708b9eefe7505e1775e67c4ad996a15b493513f318c9b82352"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "53a11e3bf250e043bf388d6680e537e3026c32a8080d02ffeeb71bb1f9eb0d87"
+metafile = true
+
+[[files]]
+file = "mods/enders-delight.pw.toml"
+hash = "278f0ad867e28ea3db374f989ec2670e61439fcb48c99bbcd18b377440251e15"
+metafile = true
+
+[[files]]
+file = "mods/endless-biomes.pw.toml"
+hash = "d381de9d3b1c66008d50b4e1b1a36d30c2f079dfded2e764d69c2bc355a56b62"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "3f06aae28b5f66bdbef6dd34c03827f81739553caa58019acf8d033456b8d1d2"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "9c16a8109adb2a5d5fdbad1c9f5769cde0b8b3c18a0028399960838f93542455"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "5b5868d9da5c3d76ea1edf2fd19e7b1612e599a625f8e6ef6bf56859df0783b3"
+metafile = true
+
+[[files]]
+file = "mods/essential-mod.pw.toml"
+hash = "c5bdef3b26ca353148f98da744cb798ffd8053720f2d13dba5e16e40fa87b4b5"
+metafile = true
+
+[[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "f27b636e4dfe3dad6e8dcbd527e52ee87c2faed7674f58174d030cb860b6c668"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "fee90a2dfde9144736fd5a9001ce4240ba5f2c2a352bec0f7b575951997b1d1c"
+metafile = true
+
+[[files]]
+file = "mods/explorations.pw.toml"
+hash = "bf791afc5cfe3fefc52edd1bb8fa804532e7eb7e26331e8c56461a0ecbc5bc0e"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+hash = "f37fa0d524b176234a3f32fd2d4d448647356e8f4b3bdbca2c6927ff4a5f3721"
+metafile = true
+
+[[files]]
+file = "mods/extra-compat.pw.toml"
+hash = "5e2ec94611d0a57e348c43f2513afc2c52d918eb696d116bbba92e4cf1deb045"
+metafile = true
+
+[[files]]
+file = "mods/falling-leaves-forge.pw.toml"
+hash = "e932f7abbc799791d19e9bb6dba0dacf5ed75ef165911bf375cf584141c657d8"
+metafile = true
+
+[[files]]
+file = "mods/falling-tree.pw.toml"
+hash = "c403c22a6334812040538866bc4851f28358c1d8f8b44f029f4c1c82f94ca5e1"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "d2c079a8c615e2e544d5b93098ed509aff9be42b18cced384b4d5910efcc6bdd"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
+metafile = true
+
+[[files]]
+file = "mods/farsight.pw.toml"
+hash = "5e4caab267a0f71c6312c96bd4e01f88433002369e06e40a3d307916149bfb7f"
+metafile = true
+
+[[files]]
+file = "mods/fast-async-world-save-forge-fabric.pw.toml"
+hash = "bfa4f03702e36f00e6298755eca6a87dfa75718c0352b73253a87b225f58335c"
+metafile = true
+
+[[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "22b888c52210a7ed29fc418e0ebb5dcb661c98eba57403eedb71d5a8f0ffafa1"
+metafile = true
+
+[[files]]
+file = "mods/fast-paintings.pw.toml"
+hash = "b3599818456da2d6cda4e52f7666f18c7323d442deff551b73d5da01f1784d6d"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
+metafile = true
+
+[[files]]
+file = "mods/flib.pw.toml"
+hash = "84c859b92abc5d7db0251d7bcc046293ff0a26729b92feaa3977e082263a9c06"
+metafile = true
+
+[[files]]
+file = "mods/forge-cit.pw.toml"
+hash = "f0f999293f442227eab70ab867bf14f1ed5c7f2ffda3d2e984a1e8e4e07daa24"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "6167b67dfe9cf27c151475debf620c5fd48598c4ffaf8c055bc629f8e8c449c0"
+metafile = true
+
+[[files]]
+file = "mods/formations-nether.pw.toml"
+hash = "74bb88ce51be352936dbf7289de55b1c4a82b05daa445d3aaf1fbb6acddd36fc"
+metafile = true
+
+[[files]]
+file = "mods/formations-overworld.pw.toml"
+hash = "86aaef98c44e3f925f25947a65c3d2140725e61985452be7e1d0c5a20a1d5ac4"
+metafile = true
+
+[[files]]
+file = "mods/formations.pw.toml"
+hash = "efdc42a63befc0feaa8420c45169ccdcbc624cb8bbe377b346691a71b74e1170"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "0d43726a6fe83f1064237efbe1362bb15110a5e5dffc2d953b43e1893cb00080"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes-forge.pw.toml"
+hash = "fa374cc4f0b3c01dc59e6bed1bc415790e6de817c068c6ba07cb1f01152b5cb7"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "0d2a80abab32de6a2094520dacb0fbca2d1a66f6c7f3c6f441c07320e2572856"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "33ffd605258873979cdecfd043e4db743bc051271db2b868f200a69200de10d0"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "f9923d413d98e0fdb3a15dccd597b389a77cab6546b94db46817d697814df00c"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "c29644a21f7936f1db9dc3c3dd54fe593a91dfeb1cc3f13ffc5fff5e02f890a6"
+metafile = true
+
+[[files]]
+file = "mods/fullstack-watchdog.pw.toml"
+hash = "2bad688e544416add9ebadfa67a936b956d22d6f31761167218e6fa910fa9ef0"
+metafile = true
+
+[[files]]
+file = "mods/gardens-of-the-dead.pw.toml"
+hash = "4bf647ebfa2ed536d774b62847a6be02467733b066206d11d4972153eb6248b5"
+metafile = true
+
+[[files]]
+file = "mods/geckoanimfix.pw.toml"
+hash = "499b9dcff2708b6c4152ff49c5f320d87bb803d0b47b4d88778437c48a59d1f5"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "5fbfa56a7bb591db33ffc31b2410ff5c7584fb1a21b4dd13687d51ad428643b2"
+metafile = true
+
+[[files]]
+file = "mods/geophilic-reforged.pw.toml"
+hash = "0d8771d0278f5c9e8a8cce7497107b96495fe8bfd59ed958949ac12215c22647"
+metafile = true
+
+[[files]]
+file = "mods/geophilic.pw.toml"
+hash = "8aef49379849c5988efad45f8212a8995ab8e8a96021ce4e922e05027efac56b"
+metafile = true
+
+[[files]]
+file = "mods/goblin-traders.pw.toml"
+hash = "21767a26f0b81ce406431c8e7bef0be3d0f1b8b109b9748a5ebbda1a18417aec"
+metafile = true
+
+[[files]]
+file = "mods/grass-overhaul.pw.toml"
+hash = "df3f2e1b106bb3effe805c8828308a7dfd5f8cd20bed727846912a26c918cc09"
+metafile = true
+
+[[files]]
+file = "mods/guard-villagers.pw.toml"
+hash = "d8dd6092de845ee7bdab21468819986bb890a7bd026cb3a73d65707e06ac53b3"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "fd8a16a5802d4f48130060357963caaf7e450afe047675f16d32ef2714d00159"
+metafile = true
+
+[[files]]
+file = "mods/hearth-and-home.pw.toml"
+hash = "f9b151612606965377d5ed97d05fc32e61e00e86ac9459f24c1b985620d17c50"
+metafile = true
+
+[[files]]
+file = "mods/hearths.pw.toml"
+hash = "8ebf55176115dee4d1ef114584d99eeacd2d3eddb369e519e31041262ecab22f"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "3447220bc5a5a18e108c69d8cc4781d12743366af5eba69ef466a70be571a7aa"
+metafile = true
+
+[[files]]
+file = "mods/illager-invasion.pw.toml"
+hash = "978aaddb9c365963faa6f78aee8f3ba83edd70be5f3e00bcb762e42d40c83b0b"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "31a8242e36b473760314a61d026f68e68ebe4151d100623d4f3467af69064c6e"
+metafile = true
+
+[[files]]
+file = "mods/inventory-hud-forge.pw.toml"
+hash = "b89733a48c29082434f6bce4616c0f528c3a5b40ee3b807f86a9f8241e05587b"
+metafile = true
+
+[[files]]
+file = "mods/inventorymanagement-1.3.1+1.20.jar"
+hash = "0f41dc90fd1ade8d5d4c937e556283c95ddcddf94821e281711f1e179deb81d0"
+
+[[files]]
+file = "mods/item-filters.pw.toml"
+hash = "ff92eddb2bf6f1afe9fa7fc73d63ea9419e0cff77fbd4fd2936b51525fe9340c"
+metafile = true
+
+[[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "a905e45f361d2548cb1a84de83b99f781ca58dd5542d4b5acf67fac444264609"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "33466bb8e4a189bc2fc7e456f0f06c94979b87141fb064706f96b1ff7ead74d3"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "bdb4b62f139151049e9b26bea10b9cf1401a7638bea581e80ac5658e0eff5498"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "08a365f0717fbd5561ff746bc6c41185b0c84582a1cd834115b933266328a5ff"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "2f4dd47f2ac99a55c332638116596bbdc38a06ac86336bb662e42c604c3a96e6"
+metafile = true
+
+[[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "3878cbe2da91ca469763d8ea0a753cc749fd99cb8be74f666003e929eaa3046e"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "dff6e001d8b4c5f03492cdc644b78352f83929b598e7e153ec8176e6aefda5de"
+metafile = true
+
+[[files]]
+file = "mods/kambrik.pw.toml"
+hash = "b7d3d553250955d3b3a669647e66ef6c4c7a31ee07f04e308432acdebb87adb0"
+metafile = true
+
+[[files]]
+file = "mods/kiwi.pw.toml"
+hash = "92131da91a21a38963f489e762d12c114da025c024710ad77557b8a6657a588f"
+metafile = true
+
+[[files]]
+file = "mods/kleeslabs.pw.toml"
+hash = "49a0eddb7f8ebeb781012ae0871d0de67a503357ce2041ec85504126f0852a5e"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "ba6600d024f257ff40d4fca84e87fc553d5853b6c71f666d8597891d611b62f0"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "826c59a1e607641acb85f1e23a2bb7183a2f0a9ccd19ea4f01bbc9d94d480acf"
+metafile = true
+
+[[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
+metafile = true
+
+[[files]]
+file = "mods/lazurite.pw.toml"
+hash = "9c295396a670a6b2b00d1e62e2e493a2aebf53745190fe473b54dece7317f561"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "bbba6ac677c4e82b397501e4db188fadcafc4dacff02b835e4b8a44ffcc9a3c7"
+metafile = true
+
+[[files]]
+file = "mods/lendercataclysm.pw.toml"
+hash = "c5e13483aebcf2486938eec6dbfb7b4e9464d396b96bcb3abf1b1f2f0090dfd6"
+metafile = true
+
+[[files]]
+file = "mods/lmft.pw.toml"
+hash = "afca79f6ef3b857bfd147d4d7f9887ee433a73f8fcd1ec4476c49ac3349926d0"
+metafile = true
+
+[[files]]
+file = "mods/log-begone.pw.toml"
+hash = "dce6fa268df602cfa84ed377a253c80a1492994d5eeadde732fb74f72ecc742f"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations.pw.toml"
+hash = "f24bcf5bbd1af10cdb7917db6b10c81d0403efed8b2f283e5e861ba48502bea1"
+metafile = true
+
+[[files]]
+file = "mods/luna.pw.toml"
+hash = "03f7fc5231588cbeaf18e5f1a5cc5f6b5473d5b2b99f2b26ff01adaa7508efb0"
+metafile = true
+
+[[files]]
+file = "mods/magnum-torch-forge.pw.toml"
+hash = "5f6768157929bccb85b4b561fb4e16c99018ad93ce3f53b945ab9b37307c3665"
+metafile = true
+
+[[files]]
+file = "mods/memory-settings.pw.toml"
+hash = "8e357b91d4ae33e15f079b759353fa71b4b6dd167e9845a7ce0353fec024ad4d"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix-forge-1.17+-1.1.1.jar"
+hash = "eec7d08707bddeadbf4b854f00a7229d294ce084e7084d60d1c95d7fb14dfae1"
+
+[[files]]
+file = "mods/mindful-darkness.pw.toml"
+hash = "e04f1f1f97017652eed9c464b33e1f3abf64c010ed9d7b98851ea846f23d8e83"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "e2f9da0b7207068d53b206da56989d85983525a704e55e7368928288ddae0251"
+metafile = true
+
+[[files]]
+file = "mods/modpack-update-checker.pw.toml"
+hash = "cd47443d3182656f928e002c93d0aeb268c58b71d386c416e7f4e71b787caf2b"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "fac74cc46a4424c4a235a6efbb7e8b3b62c200ad95564e230857eec26b33f216"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "464e83a35e22e9bbdf7be38cf7a7a98c39462a0a50b01d2a1355bcae9167ea7a"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "909e0c021f6d58d6f6a4d5cc37e6db88a37bb18287eb6120fc8b047fd234fb9f"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+hash = "7dc3c3b0b99843a19a55ec0333554b7d406de1380b5263864714c88c157b49c9"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "820d6b97344411476b96ae2bc8a3e4b9e30e15dfd15d8d0c945726b0011928d4"
+metafile = true
+
+[[files]]
+file = "mods/nethers-delight.pw.toml"
+hash = "43ff48404322ec170ef9a931bc2f95cc9b488e2834934e2af6c5e0ebebc5fb9c"
+metafile = true
+
+[[files]]
+file = "mods/new-nether-chest.pw.toml"
+hash = "4b7377e6eadfb6889bdfaafd0a6bd1ab10143dfa6b4230fa4b37619972d3416a"
+metafile = true
+
+[[files]]
+file = "mods/night-config-fixes.pw.toml"
+hash = "299d54753e1a177d47b9ed287b251117be8c92653ca204b2f9b8c102e5aef63e"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "1d602996f39fb6103a5b968f50ec06800db7125b145570474c9c10e6dcd0c68e"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "d9b85adde1545d2fdadc36ffea164179dbd119beb7c81d3522f07d47b8aa2af4"
+metafile = true
+
+[[files]]
+file = "mods/obsidianui.pw.toml"
+hash = "b30c96d1ea031aae0de3eb1fd1af3de2b20c48656dd21457fdc49dc183a220f8"
+metafile = true
+
+[[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "57f6793fdca748db18eb33a34344f68804e881af07c5e032073d8b33ee683a54"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "bbeb1bee50265ee6c9ac251cceeafa779368fedb6688956451978a072989ab94"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "8870d86453dcfef75327875c3d1b8ec5bc9a4310c47147aa6a837de5491257f7"
+metafile = true
+
+[[files]]
+file = "mods/openblocks-elevator.pw.toml"
+hash = "9d66478fde6c978312f93734d481bcb9ae9c49b74cb4538fce58c65ef15d593c"
+metafile = true
+
+[[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "447d3edbe6b85c54c601c64709cf7223af19142d0a47c2a2032194baf10c61f2"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "3aaac0528babc5c89d0bcf5aba65da19ea658636647862900f88f4039a858b53"
+metafile = true
+
+[[files]]
+file = "mods/paintings.pw.toml"
+hash = "e1e95e0650a7509c4483c721a3404f0f282bebea52a82d8b8a208608a667e52e"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "1bc510c2003bae5616d20b25637b08dd1f3038924e1ed5accf72cd1e5c82790d"
+metafile = true
+
+[[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "9189983623b36c936ee4e3c7ad70407899a2fe9fe31498a5b6e1b8a03913f23e"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "8846bead68d79c1e2094195a28c7b56d5cf724f9364fd63d0d69a29b004c4318"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "50579877561744484c4174f4ec196863cbba113e75f1b88023972d45dfa8fa8d"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "7a3bf97693ed052edf97f53e38a035244415b8fc0db346c8bac6efab2f457d94"
+metafile = true
+
+[[files]]
+file = "mods/quark-delight.pw.toml"
+hash = "3530e36f831f968105b2a8f5fe476eb2045bb4ad9f04a757958a94ad81f87790"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "b3e629e8b1c4b895294926423d4c8e3ed2865e53badee88f5d19a095b08e71f7"
+metafile = true
+
+[[files]]
+file = "mods/radium-reforged.pw.toml"
+hash = "1e4d5c14c4d87c48cae80fd6ce003ad1db70037ea810830504cf0c939ced05b4"
+metafile = true
+
+[[files]]
+file = "mods/raided.pw.toml"
+hash = "f543513ac86fdb54f462e022f0bc9b80923ef175838fc4601ba8acad7b5740e8"
+metafile = true
+
+[[files]]
+file = "mods/recipe-essentials-forge-fabric.pw.toml"
+hash = "79d1ff6cc67a1c63a1632c20918e85acf366487a2f11b53e752c9047a26dcd72"
+metafile = true
+
+[[files]]
+file = "mods/redirector.pw.toml"
+hash = "9a81a7f863c5ada410265e37e6af40925981c6f6f715a37e8e031d1b8258777f"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures.pw.toml"
+hash = "30f17f7199ed0010be19105c9d5c06546e652ccbb5dc4f2626010c3ba95c997b"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "8e91b4ed7adb49f6e2871b09f9c45c6f374baa64e0f5036054916a717dcda2d8"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "6a21a1e165d71d5e676fae7aaa2872626145336b65cdd7aa68743741dc70fbd0"
+metafile = true
+
+[[files]]
+file = "mods/revampedwolf.pw.toml"
+hash = "db47e4f43cb629991f0e6f54135d18ae948b3cf2a416610e7c789b918f152ec1"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "e8201b44aaafea01fb65a0ccf39ce55047b3a3dc54d90c5d43c4cd7ce23078ec"
+metafile = true
+
+[[files]]
+file = "mods/ruins.pw.toml"
+hash = "f5d984c3e909d97d18311f7d402812e67f0479b265ca4fb4e835d7a6077060af"
+metafile = true
+
+[[files]]
+file = "mods/ryoamiclights.pw.toml"
+hash = "b58468ef92606190377ea55f9ca1a9eacb8354be018158fbcdf4de3c9c3b474e"
+metafile = true
+
+[[files]]
+file = "mods/sawmill.pw.toml"
+hash = "be7d2ac940753b8d54c7220145a7b62677117f449377070adefb5e4751f9eda2"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "5a1192528bb03cab00ab6d81bffd6f89faa653b5385b8e1c03963c4d78e287e3"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "0f648e0a8b0396368660a3e7bc542a3b6b5993d70e8da17a9340a7d335211bce"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "84ba27cb7bd05174860dba55739d5252f74effd0d77e16383b6c46052fb1774b"
+metafile = true
+
+[[files]]
+file = "mods/server-browser.pw.toml"
+hash = "68c89767c13616a456c3e68d72afbadd3815de8ca24fa4b2501e9135ffc7cbc5"
+metafile = true
+
+[[files]]
+file = "mods/server-country-flags.pw.toml"
+hash = "edc1ab11ec671df4b3f4ad90091c55526460a3325a2ebd0751d8cfb9f6bb9c14"
+metafile = true
+
+[[files]]
+file = "mods/shield-expansion.pw.toml"
+hash = "170b0c1bf4715b5c3229e7b87402bd0320da4e04fd910fd8509e9124ed0040d5"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rich-presence.pw.toml"
+hash = "1107c941dcd4b1678ad79b8a29648457343e6aac9e373c8f5af99935140e6066"
+metafile = true
+
+[[files]]
+file = "mods/simple-storage-network.pw.toml"
+hash = "63edf067c594089af4f367df3f5374beca34161364801839943607ab5a788dba"
+metafile = true
+
+[[files]]
+file = "mods/sinytra-connector.pw.toml"
+hash = "38661a47c314ae6840d51e3ea184833c325c072d514812f0c92fdf6e111bbebf"
+metafile = true
+
+[[files]]
+file = "mods/skin-layers-3d.pw.toml"
+hash = "1fd71627fc520c6b39d310bff6b6b26fb56ae627627959c641a38f6ca7de81ba"
+metafile = true
+
+[[files]]
+file = "mods/smarter-farmers-farmers-replant.pw.toml"
+hash = "257f1d11449bf03106aa22afe13e8aab71a3c56f62d2b4181c525c8746464c92"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "590bad572f7a77f8ecc3b6cf7a6c7288c92c0d3af49aa1f5039b3584b1e99401"
+metafile = true
+
+[[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "5c115d743fdffcd440787bce17a07c2d8fac913b51e3a203cd996318bafa7cbe"
+metafile = true
+
+[[files]]
+file = "mods/snow-under-trees.pw.toml"
+hash = "0dd70fc71cd932c82aa74ac118ae5a1e2167b20da6972267ff8d6a179b6b5d9e"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "3f6894af067410277d2281acd6a674575694eb65e4e3514e4d96e32b06e4e0e2"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "9935c85e1d899d5bd69e83b51070cdca5ae9dc138bb6ccde8f76aac214df0cc0"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "994ee0273487718c21fc13cdd22b4794382e03796e7da6eacd03a450271df57a"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
+metafile = true
+
+[[files]]
+file = "mods/spawners-plus.pw.toml"
+hash = "de0f4d8a048094b9b23fbe1b5e3b0e9358ac6d844ac3e1f4bdb0bbf53505b67e"
+metafile = true
+
+[[files]]
+file = "mods/ssr.pw.toml"
+hash = "c5a6d74a1097e541894f5dbdb10fa016a0239a60877f117b6e32df1fa7fee2b1"
+metafile = true
+
+[[files]]
+file = "mods/stalwart-dungeons.pw.toml"
+hash = "89bc267ca3dbbe78af8a69fe6716e8058b4783778f0c10bb960cc52c4612714c"
+metafile = true
+
+[[files]]
+file = "mods/stoneworks.pw.toml"
+hash = "a4671ec3b13d6f7faee8bdd6460539f9d946f314b5cf9b14f2447c5a6f88fe2d"
+metafile = true
+
+[[files]]
+file = "mods/stony-cliffs-are-cool.pw.toml"
+hash = "ed418a1d85fb604a365ccff547ac03018d82abbaeddb9f2588b9ac11896ddab8"
+metafile = true
+
+[[files]]
+file = "mods/structory-towers.pw.toml"
+hash = "3dedbd73490f068db41cc979d864ab97568506cfc5436c783ae7549a986eab42"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "653307d3f6179063003abff7fd4688d7ba3008ea0396611a6eafb8ea615b861b"
+metafile = true
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "6273cbc248e4a0578d8d8e43c2d2cab98102b5bac0313f792c50f57721c3188d"
+metafile = true
+
+[[files]]
+file = "mods/structure-gel-api.pw.toml"
+hash = "2f011c26e68e7401f436417d778b8cdb37a1ef1bb63f5c457bb715b82c91b78a"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "d4f6ac1f801aa77bb9b8c612a37803e061d0065907b0b33158022d8e7eb146a7"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "a4c7d90cc8017f5058f71e7be2b261822393062924d9e175469deb2b586df438"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "570d8ea67256d5fdcbba9504cb77c49dac326c1116d84e3c48ae5a6113fdf8a7"
+metafile = true
+
+[[files]]
+file = "mods/the-conjurer.pw.toml"
+hash = "067cd6fc07e46ebe6c74858b3d14123af8e010082d1331fe489f4f212ac273f9"
+metafile = true
+
+[[files]]
+file = "mods/tips.pw.toml"
+hash = "e3622b5529f1ecbb142e8c3527f4e02fc3212ac65119c5a911b6ac0a3bdf6bdb"
+metafile = true
+
+[[files]]
+file = "mods/too-fast.pw.toml"
+hash = "8fa597b487ad567a8d1f552bd70a6ed1e23e101630e0a993f354e8e4e7b8fc8e"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "00a0cba74675174812eea16aca533adfe9bac7b30a81a7e33dd81bd9343b45c4"
+metafile = true
+
+[[files]]
+file = "mods/trading-post.pw.toml"
+hash = "d4230c3d47d1630348daf1ef7bba1201367aa39cdf6ad585ae3aca59e1bb6614"
+metafile = true
+
+[[files]]
+file = "mods/transparent.pw.toml"
+hash = "d8e6a115c32a6878ef9ab83e1947402fe94a77ea0161c70efdb516a68437366a"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+hash = "75ac47ef3a388aa5416f86415f79d262f68f5c8195c7a1a89f081b348a64c81f"
+metafile = true
+
+[[files]]
+file = "mods/twilightforest-1.20.1-4.3.2145-universal.jar"
+hash = "cc7f0471a58407062177e5588208fb385caec7185ba41a858ff772da49698d7d"
+
+[[files]]
+file = "mods/twilights-flavors-delight.pw.toml"
+hash = "2368c85a3392b805743fb0351c286e9ea7c66cc1c8736fb5a60569de5378304d"
+metafile = true
+
+[[files]]
+file = "mods/umbral-skies.pw.toml"
+hash = "95f8dc729a6862b98f9ed3a7a192c9c9fee42ed1b95b8b41138a298dd6c1c6ae"
+metafile = true
+
+[[files]]
+file = "mods/vein-mining.pw.toml"
+hash = "263e784f0c3fc61b9081c8a46c06e48a07689d7a9e1e6c00820a4d60a9bacfda"
+metafile = true
+
+[[files]]
+file = "mods/villager-names.pw.toml"
+hash = "d8eb681d517629cae251ead8e41c0de98c4f6d13663090f09661e3bdc4d4ba1c"
+metafile = true
+
+[[files]]
+file = "mods/villagersplus-forge.pw.toml"
+hash = "2d79b89befc8c928d17064588fa931129f39da52b668a94edbf6a5518c82ea4d"
+metafile = true
+
+[[files]]
+file = "mods/villages-and-pillages.pw.toml"
+hash = "ac1822b424466ba51877da27540b3190df11ee79dde529e70f26dc34021dc27e"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "3a3648832ed73aad40fc1a29e1092238cbd3cd2b6f70f305db8a0ac6608e95ba"
+metafile = true
+
+[[files]]
+file = "mods/visuality-reforged.pw.toml"
+hash = "7d26046aea03fcae4f1e5875d818543a5a401e2ae239cdfe3f18307309014290"
+metafile = true
+
+[[files]]
+file = "mods/voidtotem.pw.toml"
+hash = "4b0e1b5ed69e0d92894a079ae017095388b40e32b5174cd1ace55edaa6329621"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "5f7c7bb29895141d57fdc32823a169e3a851176760f8ceed6c00bc109b4288df"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "9114df638ca54822e5bc1647332feb11bdb823a89dfd200762f33fe2e4ef7e92"
+metafile = true
+
+[[files]]
+file = "mods/what-are-you-voting-for-2023.pw.toml"
+hash = "3259f7889f6e43d9696dee67a08bb5008f3ab443510aa6d0743cc3dbfc6dafb8"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "0cb70caa22009a495a64a4332480b5ae80cb7fc7ba34c0a48ab8aff7df20b4f7"
+metafile = true
+
+[[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "ff90684c21837d888da6ffc3e757f56529890c78f82b856a9179c5c8b84014af"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "3e5deb38abf19119c4d067aeb0785ef9839d978629bde2ef9ddddd26b15cf8bc"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "d486e3494073296119eaaec54bbc66edc901053ec3bf6e3240d4faa6dcb7a747"
+metafile = true
+
+[[files]]
+file = "mods/xenon.pw.toml"
+hash = "4a4922093b747d2dfe73d7ceace243709f44fe9128ded34168ef057e499cb2a5"
+metafile = true
+
+[[files]]
+file = "mods/xp-tome.pw.toml"
+hash = "7a8c614beb77dbce7566835e9115bee67c568e52f34469c4bc7ece34a5f2f715"
+metafile = true
+
+[[files]]
+file = "mods/yeetusexperimentus.pw.toml"
+hash = "7dbe376c64d52ddc3e52ca6ce6b07d8c5d76bf9ef68d58267bb9e9c6d8fb2c09"
+metafile = true
+
+[[files]]
+file = "mods/you-shall-not-spawn.pw.toml"
+hash = "2d686f09524f4ba6d50b3d18c1bec8d301ddc7ca7f38648b528939f71aa8fe2b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "674e002d437e7f64e9824975d24757498d7594a699c03e6fd529c23ca25a9ddf"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "6a057a8e9105d137b239ca44aec002dc890952f9873a8062cd080e0e1c62d7d2"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "e87876a65f9dc1f8bf27c8fff5a8bb6e29b6e698da2998efa2a22cdd92c74655"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "f7e9de28a927bdb8f0743104bcb9aa9a8d9fc5a7363513c954c46a975d8fa08a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-forge.pw.toml"
+hash = "5ded53795031472b64e165faf04adc21d7181854e4d9d2c83fea7b7b12ab3ddf"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "378752ead54fa58f11f2e231070bfa76d8a310cc3651d231cd861dc8a3303ff6"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "131843ce0d9cea505760b3903bc4bbe9b39e9f2ec0e155311c0eaa87f7faa428"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "50c709e0297001b0825179335e9f8c81d802740612497e1d231abb19b2fef6bc"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "d48200a73fc05992c86bc1ec2ffd0bcf3d49f9f4cd7fc0bbc9a1599e686a47a7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "97a03cf27afe3b50d3b9e97b79fda3e30a6d74e3b3c3fee3db28a4d7b20bc516"
+metafile = true
+
+[[files]]
+file = "mods/yungs-menu-tweaks.pw.toml"
+hash = "5dbe5fa776d70743e6acb0c8a6f7b94ca5185db9fb6f64c504c9dfa1ee5526d1"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "6a0428a47e610461e4a69031274e91e486a11db617dab1fd1602cd95103b35d6"
+metafile = true
+
+[[files]]
+file = "pastel-shaders.pw.toml"
+hash = "8efb590025867d3e101eedc323de2c4e29271d1e71a5f6b3964a28e23f710e41"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Better_Modded_GUI.zip"
+hash = "e161a18333fb2bf8acb897cf689f7f1419d9dba1fe341a98316395953df3ffb4"
+
+[[files]]
+file = "resourcepacks/Graphics/betterm.png"
+hash = "9e4cd7a5dec75c2d88d1ac5d23e83dbc364aafc37b0873d3ec69c4355b4d5f8d"
+
+[[files]]
+file = "resourcepacks/Graphics/discord.png"
+hash = "50588f898d90a1905235c9b4846a889495a37a86910bde6b9129621f9a68c9db"
+
+[[files]]
+file = "resourcepacks/Graphics/forge.png"
+hash = "33a9e9c73dc307d749e942f90fd85e61d6224f75e59c90f12b9bc0a6387f03d3"
+
+[[files]]
+file = "resourcepacks/Graphics/loading.png"
+hash = "9484ec9f97ba0418291cea13cde8267ae1ef368d0bdb231d17b326ac0f27aeb0"
+
+[[files]]
+file = "resourcepacks/Graphics/lunapixel.png"
+hash = "67ea9f2228d5918dc2c2b381c20766b5ecfa536f5709b51617b8a1c2fd1df9b9"
+
+[[files]]
+file = "resourcepacks/Graphics/mojang.png"
+hash = "ca4ff6f2f7e75ad5e0afeefbd81e989355f686214ef37af940a7c6f926b2750b"
+
+[[files]]
+file = "resourcepacks/Mandalas_Legacy_Gui_Background.zip"
+hash = "b243fcadf46d00d033a1b8e99025b1c023796879dfea34cd5a2e586fee1f5b4f"
+
+[[files]]
+file = "resourcepacks/NoBushyLeaves.zip"
+hash = "b3751ee1742c1cef6f283af8be45d50d51a4359534f0f469cc9dcfb6b69c17e1"
+
+[[files]]
+file = "resourcepacks/Quark Programmer Art.zip"
+hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
+
+[[files]]
+file = "resourcepacks/SE Vanilla Consistency 1.20.1.zip"
+hash = "767ad33f82139a8be0c246262d8a70074cddc2e09f74fb39e9c9dd3d509eb46f"
+
+[[files]]
+file = "resourcepacks/aether-regenerated.pw.toml"
+hash = "3ff46fec311b9237cb10d8e685c5190f73106872d485b7b83f97126d1bc3bc90"
+metafile = true
+
+[[files]]
+file = "resourcepacks/biomes-o-plenty-x-farmers-delight-bark-cutting.pw.toml"
+hash = "e79e46bd5f8edee6fe76e7a610e0a7b5a79801fe46713b6a996e6a125358dd67"
+metafile = true
+
+[[files]]
+file = "resourcepacks/created-storage-network.pw.toml"
+hash = "c2ee23b24428948a04d0b367a1facd3553356061543c31cf6f9c62eb228cac34"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-waystones-texture.pw.toml"
+hash = "6c4d310b63681f924e4d81c77bb7d56655fe5b4082aca3caf361e142d5d72bfd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icon-xaeros.pw.toml"
+hash = "d2fa96d0957ffa604cbb942be7d0bc8fbafc1829f0a61fb431655fa8a4caa42c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
+hash = "427320d2bb8d8ee2afaa9af7be44ffafaf6150cd5e706643620e27ac8f62d879"
+metafile = true
+
+[[files]]
+file = "resourcepacks/quark-x-farmers-delight-bark-cutting-compat.pw.toml"
+hash = "0f4ca88943df59c64b2fbe0fb6e959a5f3c71860bc0c2182662c01536be39749"
+metafile = true
+
+[[files]]
+file = "resourcepacks/repurposed-structures-better-dungeons-datapack.pw.toml"
+hash = "ab4c0b434475cfd26d6b0627c6fa3c7e10f58a5d6386549f8202de0a61822a17"
+metafile = true
+
+[[files]]
+file = "resourcepacks/repurposed-structures-better-strongholds-datapack.pw.toml"
+hash = "476b90ad5ac3f768e75a9eef927a73571d9518d7fc7fe55f021f99770ab966c3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/repurposed-structures-better-witch-huts-compat.pw.toml"
+hash = "0bdd91615489da6e102c9da1134bf9396ccf2f73039d14ef18470a312d5a475f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/repurposed-structures-bountiful-datapack-compat.pw.toml"
+hash = "130ef0e0ee6f88189db4e7c7da210c65ccd5137c42778d2e77ff54d6ecbb63e8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/repurposed-structures-bygone-nether-compat.pw.toml"
+hash = "b5bcdf7c6e3c15bda9de54a55cf89e5ad1accc7b207ca7c22e0e5b54a12fc4ee"
+metafile = true
+
+[[files]]
+file = "resourcepacks/repurposed-structures-farmers-delight-datapack.pw.toml"
+hash = "68efc3e894d7bad6981f7aff2e6e06723ea0c49bf0a8f12789a4cdb7c1d7bb3d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/repurposed-structures-friends-and-foes-datapack.pw.toml"
+hash = "dda43ffcdedc2cdf670b795e69c6ade4bd793225a2ff320e4b42caa672d2cfff"
+metafile = true
+
+[[files]]
+file = "resourcepacks/repurposed-structures-villagerplus-compat-datapack.pw.toml"
+hash = "bad1649977624c9723b8e3d4b90bd1b6d709084c1c09049d06e8b42ff87f35e9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stay-true.pw.toml"
+hash = "84209283dcd07c0fcb4f14c5e579f443d6ff277e18e8b89c2b7dadee0febc41a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vanilla-better-end-city.pw.toml"
+hash = "9aa8ff7cc535d65cae232ad8b0911208a406f3c1892a69e3d94045b5c9e70bf2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/when-dungeons-arise-loot-tweaks.pw.toml"
+hash = "92014da7b95c60b43bf000224f179c498636237cb247c290698351e8f3ff397f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/when-dungeons-arise-no-flying-structures.pw.toml"
+hash = "8fde64c8e0e054b86d8160fc6cff2fa8a284050a861f413895021af56a18149e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/when-dungeons-arise-spacing-tweaks.pw.toml"
+hash = "25c9f5e74bf8421845d2ab473755c5f4daf7478fb4744c28883d9d32ad1f35a5"
+metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/DISCLAIMER.txt"
+hash = "0787f6f53acb08dbb4a309d2b434b08afbb8811abac73cf8d03a106d6a7be3e6"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/Made for Complementary Shaders r5.1.1.txt"
+hash = "8068e01570d59c22061be2ac89c657440465d2decdf68a7b3142ac8a347af05b"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaderFile_1/shaderFile_L.placebo"
+hash = "74ea2fcb43a7f194e136cf0915b9ce5c8fc55f42f745a30e1fbaccf0f77020f6"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaderFile_2/shaderFile_R.placebo"
+hash = "d6a249c4b0aeaed80079877cb6ddc87bba112d6528d84a59504075d59be5a03e"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaderFile_A.placebo"
+hash = "d6a249c4b0aeaed80079877cb6ddc87bba112d6528d84a59504075d59be5a03e"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaderFile_B.placebo"
+hash = "d6a249c4b0aeaed80079877cb6ddc87bba112d6528d84a59504075d59be5a03e"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaderFile_C.placebo"
+hash = "d6a249c4b0aeaed80079877cb6ddc87bba112d6528d84a59504075d59be5a03e"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaderFile_D.placebo"
+hash = "d6a249c4b0aeaed80079877cb6ddc87bba112d6528d84a59504075d59be5a03e"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaderFile_Versions.txt"
+hash = "238e093e59cf729897706e08ccaa2a3890d56bfbbe1d45562846ff32d005bacd"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/block.properties"
+hash = "3295bc363869fef173672fbf22c542cfa878bbeccf8b7e44a721aebb5ae747eb"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/dimension.properties"
+hash = "4063c7a75f60e16cf0518dfda746ee1062c448a719440c47e9227c70dcda05f8"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/entity.properties"
+hash = "2f4c92c7986cd3d398e6c3fca22d349fa839b65125f724857d6543e79a6fd92e"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/item.properties"
+hash = "56088d7860e44367cd79371647074007a282edb99fca287e0645b9c785a90503"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lang/en_US.lang"
+hash = "d14a6907953a53b9fbe0ef16f446098bd754e55ef1ec7845a6e71b1d5b6c4338"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lang/zh_CN.lang"
+hash = "583d14086633dd46819544c80bebc774ec992222447fbcd16b9a5b18578517b3"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/antialiasing/fxaa.glsl"
+hash = "4723ae3d4d068b7ce3f89702f528afa7bcae72381b3066ce4e679f78183f2097"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/antialiasing/jitter.glsl"
+hash = "fe81fec7b10be8107b9c372796325e8a95f858f9983822ff46c238d330b2f593"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/antialiasing/taa.glsl"
+hash = "192cf5b120e7dc30e69215b968db7d429d05b71c8d24fdaa174bdfc389331137"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/atmospherics/auroraBorealis.glsl"
+hash = "19f8409d73203e7bbc99a9bd7e2b63162090a782f830dd3e8ce4f36fa9277f9a"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/atmospherics/bedrockNoise.glsl"
+hash = "7a98f4eaab73c509ca375852914b979b2dbda594b43a195f9ac729b359e7c76b"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/atmospherics/clouds/cloudCoord.glsl"
+hash = "f83b12ae20af241fce6e0e030583b12502f7840b98868a67dea2f7fc4748d157"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/atmospherics/clouds/mainClouds.glsl"
+hash = "c5560fb6cb3d0bc276e84c1cbd5526281325c39174998ed2d2e57fb558dc23e5"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/atmospherics/clouds/reimaginedClouds.glsl"
+hash = "d7b6549a3c6837a5018609a4ccbaa87c4e296fe54b3c5134d28507a2f57cc905"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/atmospherics/clouds/unboundClouds.glsl"
+hash = "688c75c17bb91e3fb9a4488ad7623bcadc95fbe402c76680a6f364bb21dcd6a1"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/atmospherics/enderBeams.glsl"
+hash = "91f5e69888ed5be6c9afc40a012aac9b64acfe7b3ae3bdeede5248ee95633732"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/atmospherics/enderStars.glsl"
+hash = "41b1c17c95b604239057c6719b4c9940355449f2a9062dd480a918078febd125"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/atmospherics/fog/bloomFog.glsl"
+hash = "33f2ac67eb67d6a37faaef135dc74eb40252332a9f7fe1245feede78b1c4d64d"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/atmospherics/fog/caveFactor.glsl"
+hash = "560d12dbfb4306a92ebe1eb81209b4d689e79748fe4135d8a196226b4f1d0449"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/atmospherics/fog/mainFog.glsl"
+hash = "eaa5aa5b6afe7ab52e926867d6237115269bf8fb9384e660c08e48c1a3f6b1a3"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/atmospherics/fog/waterFog.glsl"
+hash = "80d394eb97b3e360d77728b1acdcd18464a65eca4bf7b49b32a3e64e3942dd23"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/atmospherics/netherNoise.glsl"
+hash = "d848a9c9aba2f7819740d70b5141011a1d8d1b8b55dcad921fe255b63be95176"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/atmospherics/netherStorm.glsl"
+hash = "625c1a5620a2693165f91a41d1b9d5728422589ae23612a77c61171229a69d0d"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/atmospherics/nightNebula.glsl"
+hash = "9620dd5471ada87e8d7dd2d631962feb6a73c88a558d2ed5453f86ff09f3cd51"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/atmospherics/overworldBeams.glsl"
+hash = "c46a62f5b04fd8c57049202c05d871d2225863360c7b49a12c9760c290ba7e53"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/atmospherics/rainbow.glsl"
+hash = "3fdcc9284783f35a62c2de9ec7e8cf378a1ca9d76473efcc184a305a862d596c"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/atmospherics/sky.glsl"
+hash = "1b5a4720ec4f46cadccc9e2106775a1e19cc949b4ffe88be575782e9e504c2cd"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/atmospherics/stars.glsl"
+hash = "855731f94d89c1cda2c6fd2bcc5961a76a604ed22221aa6aca47b4c3492fc208"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/atmospherics/volumetricLight.glsl"
+hash = "183fca007bd1d2b171c6586afe8e57819ff48882f4e84ec637614bf8d910550d"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/colors/cloudColors.glsl"
+hash = "e73482cccf730184647e0f7bf3504ab83f30211bb324ba040ab67b6cdae1b121"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/colors/colorMultipliers.glsl"
+hash = "6fbe545cdf8ea351df134d3777b6b58abe6ae5551cafb2a7e9bbbdef0f08eeb3"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/colors/lightAndAmbientColors.glsl"
+hash = "2ac55ecefd27caf492c5218e1e89547c6844be863cf35e211256c6496fffca84"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/colors/moonPhaseInfluence.glsl"
+hash = "98bae77a89a6c51ff8c2dae893e131675855daa01232b2d08ecd70005d6b2ba7"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/colors/skyColors.glsl"
+hash = "7eac5061611cfc490295dcfb3c4113e471b0caadca18da1c78389aa3998713cc"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/common.glsl"
+hash = "b5c3ed29faaba929338d76bec0bf7961b4a2deedfdcb4ed084e6436c7e0571ee"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/lighting/coloredBlocklight.glsl"
+hash = "5871870cba7d1643397516660e328d1014d9f94100b6e5e015eafab11e396e07"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/lighting/ggx.glsl"
+hash = "8652e8b5a9881e32f14bddd52ad9cbd4b9389c8eeb535d8f46f5e4c57c9c3cc1"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/lighting/mainLighting.glsl"
+hash = "a8cfca97fb5d63918da42a943d55103fec116b5d420c7ae33fed4a4878d93481"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/lighting/shadowSampling.glsl"
+hash = "4af4e7c62f257f13e808c5ea53446277a8e011cab270c7c1d65fddacf26c3222"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/materialHandling/blockEntityMaterials.glsl"
+hash = "8a6c935ebe068cca9b70613f6751b4498247ad6d2d9f07b0bf790dfde15c140a"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/materialHandling/customMaterials.glsl"
+hash = "c7987d9b390085510c6b2e4234c51d463de31f7da9105f10a8dfd18b5e12f387"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/materialHandling/deferredMaterials.glsl"
+hash = "2f6d47e235bc2911364399e440d742abe8bd917493f05bf798b1eefb278efdaf"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/materialHandling/entityMaterials.glsl"
+hash = "2a1e593726d3b0b422da536d7ae18d301c37ed8ce298d36e0d867f42e0aef7ac"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/materialHandling/irisMaterials.glsl"
+hash = "7ecf764d64b5c919a6b5969b36bbd3e629f7f70f8294e4ac7ece9b63e83a5e0b"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/materialHandling/terrainMaterials.glsl"
+hash = "5c3c51e063b70629b28f18893034f9f2c05f84911bbd5a285691379e0ccf2a04"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/materialHandling/translucentMaterials.glsl"
+hash = "5e09c1ead3a5032b4b70c3371cc6d59cfed7bd6df0f28d67f03914f3b0eb81c7"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/materialMethods/anisotropicFiltering.glsl"
+hash = "bff7c1374338d8632faed6ff6150201976d194ae6207657f408a87f7428242fc"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/materialMethods/coatedTextures.glsl"
+hash = "cdb79dac787882f0d5e4d610a550a18a432ee86e137812b975cf27c12ca22390"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/materialMethods/generatedNormals.glsl"
+hash = "7a0694fd2862541ac327d2da5135f4a8ce914c2a9e05bd9b0250fa865f511034"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/materialMethods/pomEffects.glsl"
+hash = "9bd9e8f09dd2cfb3faa49e26fcd2f4cb38872619723bc2898d5f1f3d23b73d24"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/materialMethods/reflections.glsl"
+hash = "ff57a4a8a70fa58a77e08656ac55f6b08dd979998a8f5530ad7f4aed124922bd"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/materialMethods/refraction.glsl"
+hash = "5be1ec3aba55f0cc6e2d2b1a1e4e200d5840c7a8e28e6d949989f7993230c27d"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/materialMethods/wavingBlocks.glsl"
+hash = "a0cbe212327b0337bb2c600686a42e1df055637e64fccd6b5ea282c828adfa79"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/overlayNoise.glsl"
+hash = "edfd0a3b728b05dde08fb61035601122f3f2d26dd113d8aaae9b49fc866826c0"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/overlayNoiseApply.glsl"
+hash = "828e46081335d404faa0ed6c7571e99b58c040cc9018eb6f38309b10fd382e2a"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/seasons.glsl"
+hash = "c8138fa6a7a658494275d98085a242410a4a4ae800364c363e503c552c01ff87"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/seasonsTime.glsl"
+hash = "8319b1f2efb1f2bcd1d63ee71fcbfddddf2c4f73d91104ae12e45a1966dc5e5b"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/entities/glowItemFrame.glsl"
+hash = "31c0446852f3a9eb74b83801fc726ff7242cf72a6c96722ecb34d6ac3891d16d"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/entities/itemFrame.glsl"
+hash = "8fb9152f6b6618d3786a397c82a75800e742e4afb2545aab0be2ec6f8aa2ab02"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/entities/lightningBolt.glsl"
+hash = "4c1534c3eebfecd43c3cfb5fb1e4df6afe43ddba1c78b26ca2f549363a08cdd1"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/others/endPortalEffect.glsl"
+hash = "bdc0d7ab88323a6e125f9dacd07eee6e34da5c0e8b61c572800f911e5328ea8c"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/others/signText.glsl"
+hash = "ee4b529f967f339f3f1c7bb094b1b286a7beab8728b9025a325c91b00c3c7278"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/others/trident.glsl"
+hash = "f4ff0cbdc91df66b02501172c98366c72f26ac52db6e6028b5760a2dfbc9f966"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/planks/acaciaPlanks.glsl"
+hash = "8718ee517f23dad0e30ae51611eb3f7840a956d9e74087c14a66c99537250f5c"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/planks/bambooPlanks.glsl"
+hash = "dd49ce79487a9dcd9592e7f8f09e62b99840dcfeae51508b153007a810da5621"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/planks/birchPlanks.glsl"
+hash = "f4223a5768c36b1ed45f2b2df5ae9ec8be38f99a53e118afe55976f128069fa2"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/planks/cherryPlanks.glsl"
+hash = "72f9bfd3866012bd565fbc19c741c4c6b278083db925a04639bbb7b617ce6b24"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/planks/crimsonPlanks.glsl"
+hash = "d667446426111134c388ff127612b30c1adbc2c9f7f6094216c2b6ca6a3365c8"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/planks/darkOakPlanks.glsl"
+hash = "e59d059298aebcc43eeac70e974f40cec9ad0f83022c906c4e9ec93337e35223"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/planks/junglePlanks.glsl"
+hash = "bbade8aaa9fd18954019529f9104a07d6bfc089aace2e2cd34c9a84e27b06aea"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/planks/mangrovePlanks.glsl"
+hash = "53d8376e5e02eaf0992315403466a3a7a42217141eb40b2ff75c6346a4c43dec"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/planks/oakPlanks.glsl"
+hash = "0744af0c584208e5975745eabe0fd1230cc5bf643104f6980464240e066a3467"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/planks/sprucePlanks.glsl"
+hash = "27baf1caa937df0df1490b2ccc97af81a1f10ef643ac3a38c8d0d616dc4f9a46"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/planks/warpedPlanks.glsl"
+hash = "5bc327caf12312c1eac8e8dc767da9433b663720024ef1cb2477a36387e42875"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/anvil.glsl"
+hash = "18a6268d70c41754d66736916c96d506400b3c7953ab2e8e5663962dba5b8933"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/blackstone.glsl"
+hash = "f30ce9787bf04df0abc79b00ba9df9875e21aa0376393ec837393db79d7d5907"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/cobblestone.glsl"
+hash = "670c20c56738c19be07f8779f5a4ee27da9ea95fcee8dada120ba6bf02555124"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/copperBlock.glsl"
+hash = "8b95d3e43d8eec5c615d3531795b707453e3431f837b16a8a361612b70dd9f4b"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/coral.glsl"
+hash = "ca8b06088d8d66be3d2d277b17d5c10bd5ddda3752293cdb10c26ce006b57fd1"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/cryingObsidian.glsl"
+hash = "681f9e03a62fd3afe4d458ebc2cd6ed367c37109d68158fd840179cc3509c5ad"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/deepslate.glsl"
+hash = "7238e22573950b353b514d0f3ed18dfda0dfe301d7daca2f51dfc10b8ac01005"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/diamondBlock.glsl"
+hash = "116c3a8882b36c99d26df8f161dc56a66d187070663b9753b0f0fb0f897833c2"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/dirt.glsl"
+hash = "de0587910bdb8ae23a1fc4f6062f2f34b2979b2aa1e231ad3cebb0f6ba336019"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/emeraldBlock.glsl"
+hash = "0c90c3c0f26f29654753f545e2cec8aa4600ef59b59e9a1964092659b781ac39"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/endPortalFrame.glsl"
+hash = "bf7096d9c103363ba40f6869a9b68b98cec5df5ac40341087ef455840e5807ee"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/endStone.glsl"
+hash = "8aeaf8c743d0c7a8893f976bf6ec4b57ac0269ea89c7c0c8bfad623cc9f0f442"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/froglights.glsl"
+hash = "6e5c19480c8daf7e9c2ba6440a889ed4a067f1b86bd418aee23b6d44fa1d8269"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/goldBlock.glsl"
+hash = "e7abdf45ac6fb32b3584b1ac7ac603e421650d535429c91cae99eb33543ef144"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/ironBlock.glsl"
+hash = "752f0f946888ea9110348f3e5ee450b1956a54d433400a3d2b4a2bacb8267301"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/lanternMetal.glsl"
+hash = "03157c932100ce630f9438652a762e5de7f263e05a5f473acf9e6e7bb9461fce"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/lapisBlock.glsl"
+hash = "729cff8d1faf3d66177208719839d841384193702ac0de7afb58396b4162134d"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/lava.glsl"
+hash = "cf1d9253b1d65df5cc8edd4cc3996cd45cfa484dbb1c4ad208fd93c234c2504c"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/lavaNoise.glsl"
+hash = "38749c1f1da9acdbac1c6297aab0b6ee49f06bece86b2cd5b4601d7d170d1d2d"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/leaves.glsl"
+hash = "1329838651bb30ee7d252135fb2ca0369a2cea3a423243c0a285075d574c5f79"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/netheriteBlock.glsl"
+hash = "2d5ad2c4e978cb8a13518b73c63ffa1a92bc26cfa3c5b11b95f8a3a973a74f3a"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/netherrack.glsl"
+hash = "03a44822bdc983f0c9d0207c0da0762c7a88653db4732be61d3339eabbdbb06a"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/oakWood.glsl"
+hash = "32958b2882111418c4529db866e579de43ac19b6aa183ff4134d14f89a8cb4e6"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/obsidian.glsl"
+hash = "1ff7688d580056ac502a4de2c8b85c8ea1603499275302a933f8b2002df9e6aa"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/pumpkin.glsl"
+hash = "54c9bfc7c861b9406b3ab1f3f85ee237559143dadf922d28e6ac01796638eba5"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/quartzBlock.glsl"
+hash = "3ab4d1c913d4bc0cc075cdad8c9ffb4900012549a5f5ee4fee68b9c18265a11a"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/rawCopperBlock.glsl"
+hash = "2dd8f8af7a5a3777afaff13749c4085ebce4248afb619d65a9968c0f12d14ce2"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/rawGoldBlock.glsl"
+hash = "a9fd6b18570f8bd18ce2454e25507ff3bc4a29aed071d0716bbb4006f35ee7ec"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/rawIronBlock.glsl"
+hash = "ebc4573b9c4006e293d9ed512adc9adfde7b0439d3d234b98b1ed37d85a3ff40"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/redstoneBlock.glsl"
+hash = "4a74754c00aadeac34c69390247b0283b002b44da1d56ae6888c89e1ef35843c"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/redstoneTorch.glsl"
+hash = "3d617482f97a15ebebcfb37a4800a4d4ddf1f4d8e68526d7b20a40bbbe366e2b"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/snow.glsl"
+hash = "75efb562e47436d4ddeafaa0f22ca023d31977c4500403dac19d9dd80148c96a"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/terrain/stone.glsl"
+hash = "eb923baad9048c919234f279ea1aec5dc902943016146403eb67588f834ee586"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/translucents/glass.glsl"
+hash = "e9f8116bf55211340e362ce498ff194b5b4c9c42797e12636e523833cc67af78"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/translucents/netherPortal.glsl"
+hash = "63914e33badced0f00e7377e575bc20610b59fe43aa6faf3a932a228bf5a91a3"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/translucents/stainedGlass.glsl"
+hash = "4be7a619b4c5833a52884aa648a5b6d368a5ce2d3b0e38159d68b7aedd007452"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/materials/specificMaterials/translucents/water.glsl"
+hash = "64d57014aea880b82a9f6a75bc6d11d9ddc333a1d6401e9ed741cf81e803cdc1"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/misc/colorCodedPrograms.glsl"
+hash = "981cf25d66f5b3adfc5cfea9f903a56099513dd01390acde4ea7ff0c9ad7b002"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/misc/darkOutline.glsl"
+hash = "0787a03e13c7f6831169a40cdb024ed45fde17ebe90aca4d537ad49b234632fb"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/misc/distortWorld.glsl"
+hash = "780c20c30120f394661994a268fc18da7c2d9df43859c7d3abe23cb01ef2e43f"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/misc/handSway.glsl"
+hash = "ce1f7693effd40b0a2e46f0dc28ed5c978c5bae751d8f31b4368ff125eb23459"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/misc/lensFlare.glsl"
+hash = "7c50175a67f41617719cc612e0296cfbd9b7badac2c718b3d28fef444f2c6e2a"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/misc/showLightLevels.glsl"
+hash = "ee892393d62a52aead6821e910450e5e7235abe03a27c18c873f8dd6042bfa59"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/misc/worldOutline.glsl"
+hash = "3f14f04ad181d0febc1e8947407521b4720310cfa4cfe65da6ea28926b2185f2"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/pipelineSettings.glsl"
+hash = "c5ea919b964465944ae967b1314a4652512c22857e93c52ea6bc55776aca3840"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/textures/cloud-water.png"
+hash = "e03a26c2a265e0d39b8bed90124cf5dcaa788f8a2f3a1191a485460d7f05ffca"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/textures/cloud-water.png.mcmeta"
+hash = "7f447458dce74ae0fe936ba8dd11f0cdb30e36d4e99ca93f82ce8966d25ed9d2"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/textures/clouds_minecrafty-water.png"
+hash = "3d8f1ef4e3f0bab6a5e6eaa9f5f9064815de8fa94d24f6223654867d58178f2c"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/textures/clouds_minecrafty-water.png.mcmeta"
+hash = "7f447458dce74ae0fe936ba8dd11f0cdb30e36d4e99ca93f82ce8966d25ed9d2"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/textures/cucumber.png"
+hash = "93ee6240e35a9749ea939788618b4028610a8b06c4d42d54e36dbf6468979a80"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/textures/cucumber.png.mcmeta"
+hash = "761a92999abde64e1e9599aa8a253ca812a3afc700e9c96f70c848824e4e30a9"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/textures/euphoria_patches.png"
+hash = "09c4960ab67bb5fb88e7f670656036841a8fcd5f9b01ecfe73b0630b235e8b8b"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/textures/euphoria_patches.png.mcmeta"
+hash = "3edec6bbec4fd7635dfe28893cdb21e9b304117e7c0a7fe4b8f1df519dc7b74f"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/textures/noise.png"
+hash = "c810be7b1154640ec514f34f61cece2882514e6f5887101f20a1c57386cc15a1"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/textures/noise.png.mcmeta"
+hash = "7f447458dce74ae0fe936ba8dd11f0cdb30e36d4e99ca93f82ce8966d25ed9d2"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/uniforms.glsl"
+hash = "6c9e128cebfccbaeb3fad5943c4043428006586d61bf249380cf002816f8008a"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/util/commonFunctions.glsl"
+hash = "414a5db97bb830dda9465eb2cd9876536b074c8e75db77f4d1038dfeaca0b772"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/util/dFdxdFdy.glsl"
+hash = "f2444a514287a2008ece49b18272da9eb617607416a4a62220cce0cac4dcbe45"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/util/dither.glsl"
+hash = "5664317f6142cb9ab8a35dbe5177650e2cabf608cc55226786b3b7301a24f2ce"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/util/miplevel.glsl"
+hash = "21dadbe3d5d8722e187198ecca306d84c0b1e05e5a26dd47f9115d77d99ba106"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/util/spaceConversion.glsl"
+hash = "f2d044834549a5531e1f04f59a57aa7b81e9f4f91fd9a3039e67cbb2fca7e021"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/lib/util/textRendering.glsl"
+hash = "2172da180089f2dfb6900d1aa70fdef8f1f8756d16760b5042fb2725a297ca25"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/program/composite.glsl"
+hash = "9fc7b3701455f494476f9619c8dff0edd66f33b72327f7b3239f82a48967fc08"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/program/composite2.glsl"
+hash = "b70475cce0738c741befb110a0fd62804844b283614a284f07f2568083c6f03d"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/program/composite3.glsl"
+hash = "a4d7a48d654de51427370508fd10bd3e13b3948ce265947554e0038bb8f001c0"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/program/composite4.glsl"
+hash = "b665029473a4ee176cde6095272b35b72d874170da0505f12185f3684d17bf6b"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/program/composite5.glsl"
+hash = "28d7538cf4f3b1d9e90f57ad1f237e334e02501c5fcc57a7badfb5132e269712"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/program/composite6.glsl"
+hash = "e49aa2b2fdce381d348623519df4f6d9abfe2312d9211057ca785cdf8dcef9e6"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/program/composite7.glsl"
+hash = "46e1ee851d00deea792caa1b0d1556b71fe33abd46dd0f9f9dea3924f3ba5d6e"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/program/deferred1.glsl"
+hash = "0a31ef51af42541218bdd274234c42744df08907d17f38afa8b50a8fb351a2d9"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/program/final.glsl"
+hash = "a960c24d2543df730ab8fdc3c3bfec66772c12953b80025fb1a614536f57bcb9"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/program/gbuffers_armor_glint.glsl"
+hash = "30bb84cb187960e42d9f850d1817f853cf29693d83c48164b137c6cc5039ded9"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/program/gbuffers_basic.glsl"
+hash = "299bfbf461fc34f243ab18da46da38d356bebfefe45b8c7d63ac0da941f686dd"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/program/gbuffers_beaconbeam.glsl"
+hash = "0b046756bf9967bda3aaa722a9dbc16e11d0801288e45ab8738e7b59600cc7dc"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/program/gbuffers_block.glsl"
+hash = "b324baaaf50b57ebab721ce13534874ba1e6411a4409f3dc21093fa9ef96c748"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/program/gbuffers_clouds.glsl"
+hash = "b44dc745144bfd9b572383c5a15f2211f7308228ae68bf79175436204ef5f929"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/program/gbuffers_damagedblock.glsl"
+hash = "a603d37469aabe3a9dd184df7e59950b473da10ed30e1a6f55de3b81029b3978"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/program/gbuffers_entities.glsl"
+hash = "c2b5732ddb44364160a4e62ea8129f03fbbbe225aa53bb59257f3fc0bb58b81a"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/program/gbuffers_hand.glsl"
+hash = "11a7e1eb8c30a7187d84eb422708f0cd8aaa98b78a6013869941b233e2f17b43"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/program/gbuffers_skybasic.glsl"
+hash = "38887a05710498e2897b62ac42622e7e2eb571c1c8d96a617a65bd40cc6eef19"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/program/gbuffers_skytextured.glsl"
+hash = "15ea59a43a950355fbc8c5153c218705b0fc697bc59eab26ed8b4951872afee9"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/program/gbuffers_spidereyes.glsl"
+hash = "338cad6d944094c2a6d9b2561ac7f7b1eced9692d5becf16692ee5e7e71a4d95"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/program/gbuffers_terrain.glsl"
+hash = "2761f3f2e64421383e46c2df0402701cd212ccbadbdad5cd7732d1c55d4cfdb5"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/program/gbuffers_textured.glsl"
+hash = "7baae89e098d6fe9dff4521eff258d8cb703f920d04647647204397c4279e12f"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/program/gbuffers_water.glsl"
+hash = "ec1e0a63aaccda836a2cc1447610457f61dd6b39a2285f47d1adda2952609b2d"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/program/gbuffers_weather.glsl"
+hash = "e3e80bfabb3006a5aa94dee390f1ee0efbd944db77064d9a912a16a8938de5e9"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/program/shadow.glsl"
+hash = "22976f41ede0f09c1749af0d57be18654c9322cbdd98296606b940c16f346063"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/program/template.glsl"
+hash = "ecb9f62d9b657c32cadf95d765e1f4cd5d54abcb16088df9ab73f19886f05e64"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/shaders.properties"
+hash = "3d68f5913ff7dde77650c157e81933c7ed9fffaf896036a03dab14443ef5b5bb"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/composite.fsh"
+hash = "1bf8a6d6b2b3904ab853628fda489e12c338f3a053010e4fbf7cee7e2d79bf9f"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/composite.vsh"
+hash = "a7ced6577379ddd7ae085aba78c51ee1171cc4291076a08402bdcaa5b8f6cccf"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/composite2.fsh"
+hash = "3986a78f3661b2103ff36f756a81e4b713b7c2385a35553adf4f579f8ef13f6d"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/composite2.vsh"
+hash = "efd92c8fb096557c39c248eef88eb80b111569509ccdfd37abd826de2134ca64"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/composite3.fsh"
+hash = "6399cad51dbea7a7b11086f62f707a5760b96931efa94bc1f05f771fdf09fb34"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/composite3.vsh"
+hash = "be5b6dcbde18a77fe5313a5768abeef223f78c991eac2cc38c43d475b311d2bd"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/composite4.fsh"
+hash = "5ef8ff0f6b6f8823667e8cac5da949d84fe6ef27935c16925aecefcd9f123f70"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/composite4.vsh"
+hash = "43cd1ecc14fbf7a065e44bae46e81643a432c5daa64af6d8ed7c85f845e97345"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/composite5.fsh"
+hash = "fb1b58a23d4eb2e43d7aaadb347a2225e977ab618de261d01198fcc3eb075715"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/composite5.vsh"
+hash = "f87d7e1480659b576bf2d114f2ce119fe7ed1c7286b34d0c23cb4513fdca9bce"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/composite6.fsh"
+hash = "f6cc7abff796b7ab687cab5775c3d37db57f9771cec622b06193601b8d9604b9"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/composite6.vsh"
+hash = "075130a14f9a424baeb7d48948ddcd9dceb163f146038a775c63e544bc925798"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/composite7.fsh"
+hash = "bf79a85176a2fb64378f9fb3a952412e692d6f77daba88b8db58dc1ec7f5a035"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/composite7.vsh"
+hash = "5516cd4dc1c4eddb20193f0bd02e92729de37050ea1d16d0eabac0926ca30039"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/deferred1.fsh"
+hash = "ba74cea53ea240fef0858d9f898d2d3a5e18017cabff5eda4fb7e93ddd22e2db"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/deferred1.vsh"
+hash = "f3546299ae73d8f6157fc720b75fa29073ebeab589b32d94469c665b83d633d4"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/final.fsh"
+hash = "e3403360509fcc39221c872b25146cb6949bee3188ad055ea3fe6b88f97b95ad"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/final.vsh"
+hash = "3b76097f35e44744919e513bc5654ebbc06b032b93a5b29b6dea36bb9d9a05a9"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_armor_glint.fsh"
+hash = "9ab1ebf4a50e43e96f5eb4257109d46f28a1be8a585e41a31740d088ae0653ee"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_armor_glint.vsh"
+hash = "e7bd9ce4538efb63b48d6c0f5001c0e5eaa5d8f28388c348694c912feff8f74a"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_basic.fsh"
+hash = "0b826ceafd1a897b2043c5099d080ca189e7dc80f7f3e1ee7ad477519231b4bc"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_basic.vsh"
+hash = "fdc6618d6ac0056737f711aa786fc6b3be7d16a088438cc74e016cdb9f050247"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_beaconbeam.fsh"
+hash = "36bae87ed41643853f4f7bdb7ef81ec603b9b7c3cff2701fac026b07b85276ae"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_beaconbeam.vsh"
+hash = "d7145f68d0ea197caf4834fbbaff9353575db5f681765437ecc91c3f532f1436"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_block.fsh"
+hash = "2517c07ae7e24a3bec07dd2969db72ca1d6418add61fdb612fd407e12fb80da8"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_block.vsh"
+hash = "fcc629bf45da4e6953a81b7dccb988b1b116e429c889d427a6b104e5dd340ad5"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_clouds.fsh"
+hash = "a8b3b9df93cdb3dd1556bae1fc01a73f4f7a18749e641c296980edee586a635b"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_clouds.vsh"
+hash = "5751b23505b9d39b4df528f9ff6ea6153496c4a9d76c6ea9abecdb51591cafcb"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_damagedblock.fsh"
+hash = "64f8deb6db2c412b272b5de9cbd99e68f3fd86edd27ebef7304bd3212b13313c"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_damagedblock.vsh"
+hash = "7d34cd1622050303f47327bb8d02cd05bff723b8c3b930e98e0a6d28beb25cb6"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_entities.fsh"
+hash = "e4ea21a627829c6b156b771107e8e93f067c882a3b355800c996901dbb223920"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_entities.vsh"
+hash = "e4ad41ff1475bb113dc5d0b10cc5627fbe270125174ef371974645c82f376a35"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_entities_glowing.fsh"
+hash = "5b886b66feaf381eb47753c9a1aca320a69f067b7a079c182a1e95f56a55ae8f"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_entities_glowing.vsh"
+hash = "b854a4555543bd8082b71870d1c857e217395ca0276a4f2fa6cc2834d4aec3ca"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_hand.fsh"
+hash = "bfcf030d32a2802e8edf4634a16a0110b8ea9e454de52dd86dfd3876bc55441e"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_hand.vsh"
+hash = "4f5828615d5c8196d0db078d4da8670d90b72b6eeb3fe4cb7f1cc3247822f655"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_line.fsh"
+hash = "3abba981e1b742cfd738d8d323a5c457bb9e811aef81ce55526fcf5772438843"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_line.vsh"
+hash = "2a366483233b9c443b7ac73a6b27e9de5208f0555e397f0843517c128d39d52f"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_skybasic.fsh"
+hash = "1652db0b6f44a14f891d7219efbc39e3fb8dbd684752f88003c5382148c65b07"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_skybasic.vsh"
+hash = "06c08c9b267b5036831ed286adeed7340dc611bbc3411c0d91a5ca1c9b8316b4"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_skytextured.fsh"
+hash = "48aae20708a9265d23d47d65dd1ce082513a4a53c7bfa74cb7f6b0edf1d0af1d"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_skytextured.vsh"
+hash = "84568a7596408c9475bec4c8194374684876269aea6db8b55b2f12402e2cd46d"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_spidereyes.fsh"
+hash = "2d7644f07b71ef9410cbfc57365a9e53f4284b466765e516a0515fbacd0035b9"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_spidereyes.vsh"
+hash = "8fa982dc39a03f0ccad71ec645bcd357300021789eac26ec2e13a1df155cda91"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_terrain.fsh"
+hash = "23bd3561c2bfa0f5de915ba910601d68695b189c325fa0f7a0d7705d597dd3be"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_terrain.vsh"
+hash = "c904199f8cabe527602b7210c5af66ed674eb35390e1f373ef370c0ac0a8b574"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_textured.fsh"
+hash = "4834debabe6c73c3a985e9ebdde4da497b627659942624cd42b47e2f67657694"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_textured.vsh"
+hash = "6c3c3ae188a696215c89ab2c689e22944f68851f3a309ce6448c8d3b64276507"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_water.fsh"
+hash = "bd986e253b1858a0c0b8502830199c630e7098345a65153ac798e61b8660261d"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_water.vsh"
+hash = "b0143d26aa421719988fd9535314d0ac4a4566f8021c263f75a36e34401086e2"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_weather.fsh"
+hash = "4e99fef7013f4a1e7371da9b21b87acf970614ef889e6b25c6f8f78cc0a880e6"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world-1/gbuffers_weather.vsh"
+hash = "dbb2e116e5d0d1c9972cbcdec33119b90a5c6c97aa65a2579e366791a4a6e9a4"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/composite.fsh"
+hash = "db3c2ad93c83c87a765f22c1e442d3656729f243f0116aef94acdfd0018eb0be"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/composite.vsh"
+hash = "5079ae1107daaffeefa59c73ba5cf772ce0cf8d812d211e0916d3be053826e13"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/composite2.fsh"
+hash = "768105d371609d3624cc6db00e16b82b26b972c53201bc5bf691e691c3725916"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/composite2.vsh"
+hash = "2d7a610966d8ea182a1bb0d56d6f0766becb49480f65b4342bb227ea4261030b"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/composite3.fsh"
+hash = "2adeecf3b590f19148565cd52528063bf958a99a1dd06785783b5387807daaa9"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/composite3.vsh"
+hash = "c9684b11f24202e7c3a6741c73e1cfa35215ae4b4c8353c1c8241d0a0c2dd340"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/composite4.fsh"
+hash = "1690bbd43a9fd3200a076ee908e65d0411e463978d620efa921b3e54b2022e59"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/composite4.vsh"
+hash = "57d3d49580a6c7ca7352edd92bffd7e22d5b45e82e3fff50ea4c4d466e4cf855"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/composite5.fsh"
+hash = "8ec2d24db0523a977a00a5eff037e392ca48666a28bd9ef5ba7db5d26b5b6bf9"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/composite5.vsh"
+hash = "f6a887b4ec5d1614971491bd510b34ce51e3f4c908c6558c610173023bd95ba0"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/composite6.fsh"
+hash = "1a81d1b0a2bf7356f8b42eb5842e6821dc76e21266fe2ab846fa31af00b24b93"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/composite6.vsh"
+hash = "2a7f85fd80f43b5cd857d12bb63b5e06c2ab49403f8c4c758b4e0d7129bb5a2a"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/composite7.fsh"
+hash = "fae1e1e49cd84e0bae0f28bb69e151186cf2f50d22aaa9c1d088384647e72583"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/composite7.vsh"
+hash = "e472077e1da91a41fd104716cc8fece93ea9315392d7c970976b9e86a0e19e21"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/deferred1.fsh"
+hash = "8bbf0642c8423772963983ceec5f8a7b337a3042411f183481529be276acbc15"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/deferred1.vsh"
+hash = "1eacc1cdef97d5c207d7bc11a4d0fb1100514f3775ed12f9f1c2e922afffa532"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/final.fsh"
+hash = "8e89dcd1f96b8f26d9206fb9c455d5e5ccd1f6cf86b4ad9cbc91737d393274ba"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/final.vsh"
+hash = "328062773e29d5b3852090b608e1c0b40b2d5a2fe9b8d7850cde2b6586046202"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_armor_glint.fsh"
+hash = "272af5abba939819cef823a680aebe1388bbe8c002d0ee284cf5979ddb8fc9fa"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_armor_glint.vsh"
+hash = "3b5d4da16427a28741c20baffecb6c704393bbe7576699c264210185c1abc626"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_basic.fsh"
+hash = "704a2ef9b2722765e52919ba5f71a3ad104dc7699c5cc3aa03a92c4be56c1fbd"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_basic.vsh"
+hash = "60645ccd76d6f314461bd56880d249f903e0e440c7fbc3da22fc3900aedcdab9"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_beaconbeam.fsh"
+hash = "3002068fb867e383328979250eacf26cdd2f2884bb358ddf5f9cf6eb2b0cb86b"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_beaconbeam.vsh"
+hash = "6665a728d85547234e8d27fafcd6b2d8041238e632fcf663385196a50e06dbb2"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_block.fsh"
+hash = "cabc22e3cd519fda798e62d05dc822699081c45f78e776f017f54e154aee836b"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_block.vsh"
+hash = "da1400f74d509c8209a7173bdff7e952004919817a01fc8409e5e4c398548670"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_clouds.fsh"
+hash = "3a0a5cc6e9b58088696dbf713d05180225f9d795f68cd663ad6f06eee906cdc0"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_clouds.vsh"
+hash = "9f52bef9794f7696d20f21d87f1966d2c0265b0d5e373b1e6a0b02876e83f016"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_damagedblock.fsh"
+hash = "b07b092c5f10efd670a4d46b53e8ebc4b1a3d1feeffe66d03d99a305219c80fb"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_damagedblock.vsh"
+hash = "f8f5201489b4a7acd076d91f7820321874824e3da343637bd237838ff4678c98"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_entities.fsh"
+hash = "97356dd878a97c1476b8703469da5c8c495e5e782d8594286b4c5dd9a250eb4d"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_entities.vsh"
+hash = "52f7fc5beeb0df33972a803024aa1290efc892754a462668095bc946401e498b"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_entities_glowing.fsh"
+hash = "17be1d7aa46fb8d5a4a0e768be61e8775cad92324bee205794e9822da31824da"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_entities_glowing.vsh"
+hash = "d87054c6499cc9c8cb2e7d7140e46b2521a740063382cb1bb094e052a56088a0"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_hand.fsh"
+hash = "9ae7ca25a9bb007b100a0db3ec9f7db6d54f3c11e6c27c348b0adfab566869d9"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_hand.vsh"
+hash = "6a7ac23e93b588a39e6300fc8d75010314fe2b479fa1bf8badb829cbbec1c62e"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_line.fsh"
+hash = "624a38a5587bd6feed5d182cce7db2afe9c827c3861b0076a738795d7e703676"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_line.vsh"
+hash = "bcd5d434671460bde6294203078d8de2f6108a8c524b68724d950e76fc5bff22"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_skybasic.fsh"
+hash = "f36b86314a1ff8bee3ee741fd2de67ab12f406b421bbbf77ae94f8c4ad0de865"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_skybasic.vsh"
+hash = "933eb9045b4053d858898c69be0bd806301fb76ddd58730f2a7c4dedf9e8cf29"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_skytextured.fsh"
+hash = "e2ca20d1dca6c05630d533d42ed10fd7b6a4326886bb1dbfab1ec96d83bc329d"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_skytextured.vsh"
+hash = "79bf9c3374b620a887f85c82ad3f1f9a88aa6d1fa7e9f4198f4881afbc0d8e54"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_spidereyes.fsh"
+hash = "7debbcdf42c30d5bd0f7fab4832e24d75b9f4cfe578f6cdc187d26aebcaa7205"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_spidereyes.vsh"
+hash = "45f45918bf77ae926397dafc422f2886676c66f1a5b72af307aad5f90297ea31"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_terrain.fsh"
+hash = "41e8f4f5b7eacb3f010780f08999c0884d030946b22243c4d79a640cc32365c8"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_terrain.vsh"
+hash = "19d53fc835cd03b2dadf2c1dd47b424db0acdb30d59004997b30bd5e1d4382c4"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_textured.fsh"
+hash = "639ca025197675cb750299107ebd7d9e32d740ec4a6864646f65a06a58a9faad"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_textured.vsh"
+hash = "8ee1b5e3e91b4981ff451d1bfbfdc45c781954bc056e62e7b9cafc2ed882e91c"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_water.fsh"
+hash = "a308cd8f93a2b14e164fd772c76d3ec1104a2fa3c3de4e0c396cbd1e92fc295b"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_water.vsh"
+hash = "e93b3cbef8afe23a5dc47ef62b523b6ea3a93c39e4a8523cb114b57982aefd43"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_weather.fsh"
+hash = "7e12dbe049a4e9c9b870253208f88eac59b87a956d577c5de24e31b852f30d54"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/gbuffers_weather.vsh"
+hash = "ec413b395b72b8f87e63844971333e8f377517123ffe7a4d9f6045a3af61bd59"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/shadow.fsh"
+hash = "e2445364a7ff8eecc3a6add5503f49dd4e97610965cd914dc9ada9900403fef0"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world0/shadow.vsh"
+hash = "f625bf1d06906fc52fd46f3afbf5bddcb728197622a1f38f3e9f6c1c350ac618"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/composite.fsh"
+hash = "4913549a8f6d3de4a825715a09fd66193b1737c0318d5a62341a80a1f2d946d4"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/composite.vsh"
+hash = "730b590147f87d54b4e3fda060273cdc3e5f1e537e320b62f14db7d0a1cf8141"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/composite2.fsh"
+hash = "c7b27a724109a625503f1dd9a9fec636b26c053e5a5786fde406bea088a70339"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/composite2.vsh"
+hash = "4d8d7aa9f05dccc20054b948984d3425ec49dd4c1ab7cd28906e08af1a3ac3f5"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/composite3.fsh"
+hash = "78dcf554e49e09ac3168cc88e8f163f32d05b5f5dcb42d7f9f788494e64d27fa"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/composite3.vsh"
+hash = "930805494e345490642ad17bde4c1f16e0ab1fcdb2c621ea9a548730b5d7c264"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/composite4.fsh"
+hash = "21c3c8a51a75a041e3f2f3e876f64c7813d3411d863eaa7a476f2ef13e9105ee"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/composite4.vsh"
+hash = "ce54b664158073dedaefcf8bfe93eee1bea77ae3c457f230427387dbc72e600b"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/composite5.fsh"
+hash = "c0192588bb08f6239881aa4dafc3ac68e9adb71958861076ba1b746e1825f0dc"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/composite5.vsh"
+hash = "6733277d54b9c982c522d232546ba1f8ef206cdaa60a012459bcf7b0e272e030"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/composite6.fsh"
+hash = "c4a6ad129cc129d1b060955a544494351232aca35fbfa55239e81bdb8f788a87"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/composite6.vsh"
+hash = "749a8db5bd3928b6670e3fceeea058495726359495504446a5177ecb1116edc3"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/composite7.fsh"
+hash = "f3ba0a7a1b79e3bb78ab5dae1adf4cfe0910f3dccddc029728c22f0e304ac133"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/composite7.vsh"
+hash = "b9d0aed97ef625a89019eb62ff4bb780ce6ea3a048afdc96bb1203a81b730161"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/deferred1.fsh"
+hash = "765473c0ee46489763ab7e323b4e128b383f2b645b0d02fbc08e859e612a217d"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/deferred1.vsh"
+hash = "d95408080dd559e50c36724e0896f519c3ec20a667b977cc0426b3c64ca45c0e"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/final.fsh"
+hash = "c198f9405b88acc405cf1740cf73cbe72e4bc01f9338b3c02b65401113354c27"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/final.vsh"
+hash = "ed6871c9b3ce5e90ac3ab104c58afa0a11a9f8087c4e093692b5cde2c21acbb5"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_armor_glint.fsh"
+hash = "4977c4b60184d85526a3083904d2fef79b7d8b7bd118aabc8b09655a3294fd5a"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_armor_glint.vsh"
+hash = "311156f0053d4405db37d953a4b3fd89e8100de24644b713a17f6727e1598078"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_basic.fsh"
+hash = "79845432f6aa18ba526b9f2504b0e586b00cde019a2017ac9cd1dff43f72a6e7"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_basic.vsh"
+hash = "86731c9c91f84d646c219c5de7b72f54fece1aa6288b4d306fedf6d22d0bedd0"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_beaconbeam.fsh"
+hash = "70ef44d224d5db16f6e5c13808bfe15f9fd66fce13b4fddbb34e98d86c406d64"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_beaconbeam.vsh"
+hash = "768be9c7a23f046579603eb2f1d8ec4379d5745b798fd6e7dd92e1b2ac10fc5b"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_block.fsh"
+hash = "f28bf016f3284799bc3d810e9664885e67fa94efbc75adc8790d6160aa1c3b4c"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_block.vsh"
+hash = "bd8df9bb3403eedcc88baa7c27241dff319d8e8027a8b3c593d1c6639e872f36"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_clouds.fsh"
+hash = "7f4ff63219caa509f46e70cbf826a7db6942f7ebc8582134fde5720eadeb1f9c"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_clouds.vsh"
+hash = "807b889a642e626ea1e11dc4d21beb3b2be36d4fe8c871fbf86066754505c670"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_damagedblock.fsh"
+hash = "4d92959d6e205e930a96ec9cb35182a7b8cc1ef7e16dc1148951298a5afdf4fb"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_damagedblock.vsh"
+hash = "425828dd29fcd3aeb6ca6aa8786a8f9f0ba21c1d138ebeceda08504a43793d93"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_entities.fsh"
+hash = "667cdaa4ea324fa334ec713a04f6c3212276e8571ee1d4dd09b0aaef886f16ab"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_entities.vsh"
+hash = "5a0a5da037f00f500d24ea438822346b9c5ba9dc381190b323c90b26de275a71"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_entities_glowing.fsh"
+hash = "9ef577558410886de2ee7ae9d9585aa953c106d691e36586aaf6dc17f0d79204"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_entities_glowing.vsh"
+hash = "1698b9b31f40c1e9f0bfdd293a33c6ba3ef7c4d13cffdc4d0b8dc42a02ffcd25"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_hand.fsh"
+hash = "9e7fb8083b9599fe5497f244194fab0e55eb8a43905dbae2ecbcbc4f81e35e39"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_hand.vsh"
+hash = "e28e61209447c90e6521cdba4c3af4f467283dd7106c170678f25df7566f0a0c"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_line.fsh"
+hash = "1aff8003bb3faa95a4b066d226b604e348a23d5596e3c2316506da4c50368d4a"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_line.vsh"
+hash = "0e6cf3a18bccfc40ff025e0c70a0d92f1d8c3c693828bc88cf0180933701e693"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_skybasic.fsh"
+hash = "7ebd58151c96b32b622a715a809e2de361ed8c9f7ccc8988b611bd3423d2b8d0"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_skybasic.vsh"
+hash = "fc2cc5253c35c33c9b0d52ea332c6bd9e2beaa5f6d11111c044bb4b621977e2a"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_skytextured.fsh"
+hash = "f20ac7e2ffa299b3c6cf4e836ab1799c45c51e3020e592a2769732c292cc31e4"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_skytextured.vsh"
+hash = "07c56c404d10a7a878cc97f5ce4815e0b7cd0ce02f595f9e558513aba0fc0656"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_spidereyes.fsh"
+hash = "0265f14d49add14932ec360ad377cebad46460456926ddf45bde1ea89c84c817"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_spidereyes.vsh"
+hash = "351006474e6265445fee1bf0ce5991a3c63b3f2d8430c06268f84dbc0db2d896"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_terrain.fsh"
+hash = "5261e39bd21c121997a93b01bbafa1f36a2b1d25d9a2c888f4847ddaccf270ad"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_terrain.vsh"
+hash = "5c9c864d9172aedc30177890752e0e609d39347bc685709afbac279571309a74"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_textured.fsh"
+hash = "32679bc8e53fbae101e1600a8a8f916e31656065a8399d13370bafa000bec46d"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_textured.vsh"
+hash = "dd6ab7f1da3ee81d5a4348f1d61fedddf01587e0f9f1cd300698fbe04527aa85"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_water.fsh"
+hash = "20406eddb92d8b933171c7428a0426063cc95cc2424532157899bf27c4b1ae24"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_water.vsh"
+hash = "b32566b0cee0bc6a7ade17c43d0b6f5ebf4c65d038df5a2c1bf9c3145471855e"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_weather.fsh"
+hash = "71d3c28b2925f315b483a2a2af64436e91166ab776b8631a812ff5037d9e7482"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/gbuffers_weather.vsh"
+hash = "db96a6ed0e8ab3a83eae2f5ba47afbd198457c577cd56d7559ac65d4050d1961"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/shadow.fsh"
+hash = "4890e939dc6c9cb74e45a608c09e68337c0f2ca4f144d190747258b4ea4b6337"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/shadow.vsh"
+hash = "1ac230670f346eb77c014631a77977e08743ad29d6e6420ce8709bd8685135fd"

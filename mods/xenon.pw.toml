@@ -1,0 +1,13 @@
+name = "Xenon"
+filename = "xenon-1.20.1-0.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3b29ce32722b1f08df37b6c5edcc4c66bd472e28"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5091657
+project-id = 564239

@@ -1,0 +1,13 @@
+name = "Better MC [FORGE] - BMC4"
+author = "LunaPixelStudios"
+version = "v26"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ce79dcb1653de63d67e54f2d1ba2fd8b32392a1c8c5748e54db4bbbb450f9b63"
+
+[versions]
+forge = "47.2.17"
+minecraft = "1.20.1"
